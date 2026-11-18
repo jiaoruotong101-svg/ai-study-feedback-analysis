@@ -1,0 +1,14 @@
+﻿code,name,P,A,B
+ANSWER,回答质量,9,10,14
+EXPLAIN,解释与步骤,2,2,2
+UNDERSTAND,理解与任务完成,3,4,5
+PAY,付费门槛与额度,17,14,15
+BILLING,扣费争议与退款,3,3,1
+ENTITLEMENT,已购权益,1,1,0
+TECH,运行与访问,4,9,9
+SPEED,响应速度,3,1,1
+ADS,广告体验,3,1,2
+UI,界面易用性,1,0,3
+ONBOARD,入门求助,2,0,1
+NEW_PERMISSIONS,权限异议候选,0,1,0
+NEW_SUPPORT,客服缺失候选,0,1,0

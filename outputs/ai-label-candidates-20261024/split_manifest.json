@@ -1,0 +1,162 @@
+{
+  "status": "candidate_split_only_no_ai_labels",
+  "source_rows": 82004,
+  "train_n": 1800,
+  "development_n": 360,
+  "held_out_final_test_n": 180,
+  "known_previous_unique_text_n": 489,
+  "normalization": "lowercase whitespace and punctuation-stripped exact-text check",
+  "ascii_fraction_prefilter": 0.95,
+  "warning": "ASCII fraction is not reliable language identification; candidates still need semantic language screening before label use. Near-duplicate review beyond exact punctuation normalization remains pending.",
+  "group_quotas": [
+    {
+      "app": "Answer.AI - Your AI tutor",
+      "rating_stratum": "high",
+      "eligible_after_exclusion": 5924,
+      "train": 190,
+      "development": 30,
+      "left_before_final_test": 5704
+    },
+    {
+      "app": "Answer.AI - Your AI tutor",
+      "rating_stratum": "low",
+      "eligible_after_exclusion": 508,
+      "train": 80,
+      "development": 20,
+      "left_before_final_test": 408
+    },
+    {
+      "app": "Answer.AI - Your AI tutor",
+      "rating_stratum": "mid",
+      "eligible_after_exclusion": 261,
+      "train": 30,
+      "development": 10,
+      "left_before_final_test": 221
+    },
+    {
+      "app": "Gauth: AI Study Companion",
+      "rating_stratum": "high",
+      "eligible_after_exclusion": 41278,
+      "train": 190,
+      "development": 30,
+      "left_before_final_test": 41058
+    },
+    {
+      "app": "Gauth: AI Study Companion",
+      "rating_stratum": "low",
+      "eligible_after_exclusion": 5379,
+      "train": 80,
+      "development": 20,
+      "left_before_final_test": 5279
+    },
+    {
+      "app": "Gauth: AI Study Companion",
+      "rating_stratum": "mid",
+      "eligible_after_exclusion": 1718,
+      "train": 30,
+      "development": 10,
+      "left_before_final_test": 1678
+    },
+    {
+      "app": "Homework AI - Math & Essay App",
+      "rating_stratum": "high",
+      "eligible_after_exclusion": 854,
+      "train": 190,
+      "development": 30,
+      "left_before_final_test": 634
+    },
+    {
+      "app": "Homework AI - Math & Essay App",
+      "rating_stratum": "low",
+      "eligible_after_exclusion": 369,
+      "train": 80,
+      "development": 20,
+      "left_before_final_test": 269
+    },
+    {
+      "app": "Homework AI - Math & Essay App",
+      "rating_stratum": "mid",
+      "eligible_after_exclusion": 60,
+      "train": 30,
+      "development": 10,
+      "left_before_final_test": 20
+    },
+    {
+      "app": "Nerd AI - Tutor & Math Helper",
+      "rating_stratum": "high",
+      "eligible_after_exclusion": 3749,
+      "train": 190,
+      "development": 30,
+      "left_before_final_test": 3529
+    },
+    {
+      "app": "Nerd AI - Tutor & Math Helper",
+      "rating_stratum": "low",
+      "eligible_after_exclusion": 1499,
+      "train": 80,
+      "development": 20,
+      "left_before_final_test": 1399
+    },
+    {
+      "app": "Nerd AI - Tutor & Math Helper",
+      "rating_stratum": "mid",
+      "eligible_after_exclusion": 231,
+      "train": 30,
+      "development": 10,
+      "left_before_final_test": 191
+    },
+    {
+      "app": "Question.AI - Chatbot&Math AI",
+      "rating_stratum": "high",
+      "eligible_after_exclusion": 13058,
+      "train": 190,
+      "development": 30,
+      "left_before_final_test": 12838
+    },
+    {
+      "app": "Question.AI - Chatbot&Math AI",
+      "rating_stratum": "low",
+      "eligible_after_exclusion": 1861,
+      "train": 80,
+      "development": 20,
+      "left_before_final_test": 1761
+    },
+    {
+      "app": "Question.AI - Chatbot&Math AI",
+      "rating_stratum": "mid",
+      "eligible_after_exclusion": 516,
+      "train": 30,
+      "development": 10,
+      "left_before_final_test": 476
+    },
+    {
+      "app": "StudyX: AI Homework Helper",
+      "rating_stratum": "high",
+      "eligible_after_exclusion": 1592,
+      "train": 190,
+      "development": 30,
+      "left_before_final_test": 1372
+    },
+    {
+      "app": "StudyX: AI Homework Helper",
+      "rating_stratum": "low",
+      "eligible_after_exclusion": 625,
+      "train": 80,
+      "development": 20,
+      "left_before_final_test": 525
+    },
+    {
+      "app": "StudyX: AI Homework Helper",
+      "rating_stratum": "mid",
+      "eligible_after_exclusion": 78,
+      "train": 30,
+      "development": 10,
+      "left_before_final_test": 38
+    }
+  ],
+  "group_seed_base": 2026102400,
+  "train_shuffle_seed": 2026102411,
+  "dev_shuffle_seed": 2026102412,
+  "rules_sha256": "f6ed0f9dcfb18991102bc2ce2eb37c1e3fce54deca30da7e0da5c7f3dc7a1b30",
+  "source_sha256": "8d10717fec5084d1aa41d5aef557f78e51873777c191e28f71915927d1099c41"
+}

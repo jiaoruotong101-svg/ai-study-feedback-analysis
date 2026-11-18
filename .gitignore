@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+复现运行/
+.env
+.env.*
+~$*
+~WRL*
+*.tmp
+.DS_Store
+Thumbs.db

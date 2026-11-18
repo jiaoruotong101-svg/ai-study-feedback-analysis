@@ -1,0 +1,26 @@
+{
+  "method": "normalized character trigram Jaccard >= .70 AND SequenceMatcher >= .92; both texts >=20 chars; transitive components; previous > train > development priority; mechanical near-duplicate screen, not semantic proof",
+  "excluded": {
+    "V0268": "T0193",
+    "T1726": "T0527"
+  },
+  "pairs": [
+    {
+      "left": "T0527",
+      "right": "T1726",
+      "trigram_jaccard": 0.89474,
+      "sequence_ratio": 0.98734
+    },
+    {
+      "left": "T0193",
+      "right": "V0268",
+      "trigram_jaccard": 0.81818,
+      "sequence_ratio": 0.95385
+    }
+  ],
+  "known_unique_n": 489,
+  "remaining": {
+    "train": 1799,
+    "development": 359
+  }
+}

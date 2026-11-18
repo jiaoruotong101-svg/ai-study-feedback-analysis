@@ -1,0 +1,31 @@
+{
+  "vectorizer": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_features": 20000,
+    "sublinear_tf": true
+  },
+  "classifier": {
+    "C": 1.0,
+    "class_weight": "balanced",
+    "solver": "liblinear",
+    "max_iter": 1000,
+    "random_state": 20261026
+  },
+  "binary_threshold": 0.5,
+  "category_threshold": 0.5,
+  "category_prediction_gate": "feedback_probability >= 0.5",
+  "trained_categories": [
+    "回答与任务完成",
+    "收费与权益",
+    "运行体验",
+    "界面与广告"
+  ],
+  "withheld_category": "入门求助",
+  "withheld_reason": "Only 5 train and 1 development positives; descriptive cases only.",
+  "fitting_scope": "Vectorizer fit on train text only; each category fit only on observed targets; null labels never converted to negative.",
+  "selection": "One predeclared configuration; no search or threshold tuning on development or human test."
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-30",
+  "rows": 180,
+  "counts": {
+    "无": 86,
+    "有": 92,
+    "不确定": 2
+  },
+  "all_originals_preserved": true,
+  "all_written_decisions_reimported_equal": true,
+  "english_comprehension_unmeasured": true,
+  "model_predictions_not_read": true,
+  "choice_exceptions": {
+    "21": "B",
+    "46": "B",
+    "53": "AB",
+    "68": "负面评价，类别待定",
+    "97": "B",
+    "99": "B",
+    "155": "B",
+    "165": "B（这个应该再说广告多，界面与广告？）"
+  }
+}

@@ -1,0 +1,32 @@
+import fs from 'node:fs/promises';
+import assert from 'node:assert/strict';
+import {Workbook,SpreadsheetFile,FileBlob} from '@oai/artifact-tool';
+const dir='D:/projects/Study/outputs/human-review-20261020';
+const path=`${dir}/优先人工复核40条.xlsx`;
+await fs.copyFile(path,`${dir}/before_first6.xlsx`);
+const wb=await SpreadsheetFile.importXlsx(await FileBlob.load(path));
+const s=wb.worksheets.getItem('逐条复核');
+assert.deepEqual(s.getRange('A6:A11').values.flat(),['R030','R032','R040','R051','R052','R075']);
+assert.ok(s.getRange('D6:H11').values.flat().every(v=>v==null||v===''));
+const before=await wb.render({sheetName:s.name,range:'C6:H7',scale:1,format:'png'});
+await fs.writeFile(`${dir}/before_fill.png`,new Uint8Array(await before.arrayBuffer()));
+console.log((await wb.inspect({kind:'table',range:'逐条复核!A6:H11',tableMaxRows:6,tableMaxCols:8,maxChars:800})).ndjson);
+const values=[
+['能理解','有','收费与权益','Why would anyone pay for this','用户选A：感觉是在说这个产品不值得花钱，但没有说明具体哪里不好。记录付费价值不满，不进一步推断原因。'],
+['能理解','有','回答与任务完成','horrible answers','用户选A：明确是在说回答质量差，但没有说答案具体哪里错了，不能直接判断是回答不准确。'],
+['能理解','有','回答与任务完成',"It's not understanding.",'用户选A：感觉是在说应用没理解他的意思，但没有说明具体是什么需求，不能再细分。'],
+['能理解','有','界面与广告','bad ui and super limited resources','用户选A：界面差是明确的，但资源有限具体指什么不清楚，不能直接判断是收费限制还是内容、功能不足。保留资源有限的反馈，具体含义待定。'],
+['能理解','有','收费与权益','Very nice app but this is paid','用户选A：感觉“但要付费”是在表达轻度不满，觉得收费是个不足，但不能进一步判断是价格太贵。'],
+['能理解','有','入门求助',"I am new to this app and I don't know how to use this, I'll change my ratings if this app is great",'用户选C：明确说了不知道怎么用，可以算入门求助，但也说明他还没有形成充分的使用评价，不能判断应用本身好不好用。']
+];
+await fs.writeFile(`${dir}/first6_values.json`,JSON.stringify(values));
+// Continue only after the pre-edit view is inspected.
+if(process.argv.includes('--write')){
+ s.getRange('D6:H11').values=values;
+ wb.recalculate();
+ assert.deepEqual(s.getRange('D6:H11').values,values);
+ const preview=await wb.render({sheetName:s.name,range:'D6:H11',scale:1,format:'png'});
+ await fs.writeFile(`${dir}/after_fill.png`,new Uint8Array(await preview.arrayBuffer()));
+ await(await SpreadsheetFile.exportXlsx(wb)).save(`${dir}/first6_checked.xlsx`);
+ console.log('Saved candidate.');
+}

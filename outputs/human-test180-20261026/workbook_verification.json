@@ -1,0 +1,16 @@
+{
+  "source_rows": 180,
+  "originals_equal_after_export_import": true,
+  "human_input_cells": 900,
+  "all_human_inputs_blank": true,
+  "sheets": [
+    "独立填写",
+    "填写说明"
+  ],
+  "no_AI_labels_or_per_item_hints": true,
+  "openxml_full_originals_match": true,
+  "no_hidden_sheets_or_rows": true,
+  "no_comments_or_external_links": true,
+  "model_unchanged_since_sampling": true,
+  "workbook_sha256": "6d03528187d4c9b05a4b66831964753750f997ca5cd6407643b7afbe0297e69e"
+}

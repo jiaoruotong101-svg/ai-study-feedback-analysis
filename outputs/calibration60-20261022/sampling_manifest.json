@@ -1,0 +1,119 @@
+{
+  "source_rows": 82004,
+  "sample_n": 60,
+  "known_unique_texts": 429,
+  "sampling_base_seed": 20261022,
+  "shuffle_seed": 2026102201,
+  "language_filter": "ASCII alphabetic fraction >=0.95 followed by reading for language only; not a validated language detector",
+  "language_exclusions": {
+    "cf66c181-dbb5-47aa-b7ee-1037b5e07c78": "关键评价词NALLA依赖非英语词义理解，暂不纳入英语校准样本。",
+    "98cf2220-0df2-48e3-9c75-9e3779143c8e": "主要内容为非英语转写，需翻译理解，暂不纳入英语校准样本。"
+  },
+  "skipped_in_order": [
+    {
+      "id": "98cf2220-0df2-48e3-9c75-9e3779143c8e",
+      "reason": "主要内容为非英语转写，需翻译理解，暂不纳入英语校准样本。"
+    },
+    {
+      "id": "cf66c181-dbb5-47aa-b7ee-1037b5e07c78",
+      "reason": "关键评价词NALLA依赖非英语词义理解，暂不纳入英语校准样本。"
+    }
+  ],
+  "groups": [
+    {
+      "app": "Answer.AI - Your AI tutor",
+      "stratum": "high",
+      "n": 3
+    },
+    {
+      "app": "Answer.AI - Your AI tutor",
+      "stratum": "low",
+      "n": 4
+    },
+    {
+      "app": "Answer.AI - Your AI tutor",
+      "stratum": "mid",
+      "n": 3
+    },
+    {
+      "app": "Gauth: AI Study Companion",
+      "stratum": "high",
+      "n": 3
+    },
+    {
+      "app": "Gauth: AI Study Companion",
+      "stratum": "low",
+      "n": 3
+    },
+    {
+      "app": "Gauth: AI Study Companion",
+      "stratum": "mid",
+      "n": 4
+    },
+    {
+      "app": "Homework AI - Math & Essay App",
+      "stratum": "high",
+      "n": 4
+    },
+    {
+      "app": "Homework AI - Math & Essay App",
+      "stratum": "low",
+      "n": 3
+    },
+    {
+      "app": "Homework AI - Math & Essay App",
+      "stratum": "mid",
+      "n": 3
+    },
+    {
+      "app": "Nerd AI - Tutor & Math Helper",
+      "stratum": "high",
+      "n": 3
+    },
+    {
+      "app": "Nerd AI - Tutor & Math Helper",
+      "stratum": "low",
+      "n": 4
+    },
+    {
+      "app": "Nerd AI - Tutor & Math Helper",
+      "stratum": "mid",
+      "n": 3
+    },
+    {
+      "app": "Question.AI - Chatbot&Math AI",
+      "stratum": "high",
+      "n": 3
+    },
+    {
+      "app": "Question.AI - Chatbot&Math AI",
+      "stratum": "low",
+      "n": 3
+    },
+    {
+      "app": "Question.AI - Chatbot&Math AI",
+      "stratum": "mid",
+      "n": 4
+    },
+    {
+      "app": "StudyX: AI Homework Helper",
+      "stratum": "high",
+      "n": 4
+    },
+    {
+      "app": "StudyX: AI Homework Helper",
+      "stratum": "low",
+      "n": 3
+    },
+    {
+      "app": "StudyX: AI Homework Helper",
+      "stratum": "mid",
+      "n": 3
+    }
+  ],
+  "no_feedback_labels_generated": true,
+  "rule_sha256": "e77771ab211b13572ce583c281cdb60345ce82466115c4ca843aa2f9e80513ff",
+  "language_reading_completed": true,
+  "source_sha256": "8d10717fec5084d1aa41d5aef557f78e51873777c191e28f71915927d1099c41",
+  "note": "Language-only screening; no issue labels assigned. C001-C060 are development/calibration samples, exclude from future final test."
+}

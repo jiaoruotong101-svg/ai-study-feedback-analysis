@@ -1,0 +1,138 @@
+{
+  "n": 90,
+  "stratum_counts": {
+    "high_4_5": 30,
+    "low_1_2": 30,
+    "mid_3": 30
+  },
+  "status": {
+    "issue": 43,
+    "positive": 34,
+    "vague_negative": 7,
+    "preuse": 3,
+    "irrelevant": 2,
+    "ambiguous": 1
+  },
+  "actionable_by_stratum": {
+    "high_4_5": {
+      "sum": 2,
+      "count": 30
+    },
+    "low_1_2": {
+      "sum": 24,
+      "count": 30
+    },
+    "mid_3": {
+      "sum": 17,
+      "count": 30
+    }
+  },
+  "labels": {
+    "回答质量": 9,
+    "解释与步骤": 2,
+    "需求理解与任务完成": 3,
+    "付费门槛与使用额度": 17,
+    "扣费争议与退款": 3,
+    "广告体验": 3,
+    "运行与访问故障": 4,
+    "响应速度": 3,
+    "界面易用性": 1,
+    "入门与激活求助": 2,
+    "已购权益与跨设备使用": 1
+  },
+  "app_results": {
+    "Answer.AI - Your AI tutor": {
+      "sum": 8,
+      "count": 15
+    },
+    "Gauth: AI Study Companion": {
+      "sum": 5,
+      "count": 15
+    },
+    "Homework AI - Math & Essay App": {
+      "sum": 5,
+      "count": 15
+    },
+    "Nerd AI - Tutor & Math Helper": {
+      "sum": 9,
+      "count": 15
+    },
+    "Question.AI - Chatbot&Math AI": {
+      "sum": 8,
+      "count": 15
+    },
+    "StudyX: AI Homework Helper": {
+      "sum": 8,
+      "count": 15
+    }
+  },
+  "high_rating_issue_ids": [
+    "R052",
+    "R063"
+  ],
+  "not_low_issue_ids": [
+    "R006",
+    "R012",
+    "R014",
+    "R020",
+    "R027",
+    "R031",
+    "R033",
+    "R035",
+    "R037",
+    "R041",
+    "R046",
+    "R052",
+    "R053",
+    "R063",
+    "R070",
+    "R074",
+    "R075",
+    "R082",
+    "R083"
+  ]
+}
+sample_id  review_score                       app_name           issue_labels
+     R004             1 Homework AI - Math & Essay App                运行与访问故障
+     R005             2  Question.AI - Chatbot&Math AI                   回答质量
+     R006             3      Answer.AI - Your AI tutor         广告体验；付费门槛与使用额度
+     R008             1     StudyX: AI Homework Helper                扣费争议与退款
+     R011             1  Nerd AI - Tutor & Math Helper              付费门槛与使用额度
+     R012             3  Question.AI - Chatbot&Math AI              需求理解与任务完成
+     R014             3      Gauth: AI Study Companion                   回答质量
+     R016             1  Nerd AI - Tutor & Math Helper                扣费争议与退款
+     R019             2      Answer.AI - Your AI tutor                   回答质量
+     R020             3      Gauth: AI Study Companion                  解释与步骤
+     R021             1  Nerd AI - Tutor & Math Helper              付费门槛与使用额度
+     R022             1     StudyX: AI Homework Helper                运行与访问故障
+     R023             1  Question.AI - Chatbot&Math AI              需求理解与任务完成
+     R027             3  Question.AI - Chatbot&Math AI                   回答质量
+     R029             1     StudyX: AI Homework Helper              付费门槛与使用额度
+     R030             1      Gauth: AI Study Companion              付费门槛与使用额度
+     R031             3      Answer.AI - Your AI tutor              付费门槛与使用额度
+     R032             1      Gauth: AI Study Companion                   回答质量
+     R033             3  Nerd AI - Tutor & Math Helper              付费门槛与使用额度
+     R035             3     StudyX: AI Homework Helper              付费门槛与使用额度
+     R037             3  Nerd AI - Tutor & Math Helper                入门与激活求助
+     R040             2      Answer.AI - Your AI tutor              需求理解与任务完成
+     R041             3     StudyX: AI Homework Helper              付费门槛与使用额度
+     R042             1 Homework AI - Math & Essay App                运行与访问故障
+     R045             1  Nerd AI - Tutor & Math Helper                   响应速度
+     R046             3  Question.AI - Chatbot&Math AI                   回答质量
+     R048             1 Homework AI - Math & Essay App              付费门槛与使用额度
+     R049             1  Nerd AI - Tutor & Math Helper                扣费争议与退款
+     R051             1     StudyX: AI Homework Helper                  界面易用性
+     R052             4     StudyX: AI Homework Helper              付费门槛与使用额度
+     R053             3 Homework AI - Math & Essay App              付费门槛与使用额度
+     R060             1      Answer.AI - Your AI tutor             回答质量；解释与步骤
+     R063             5      Answer.AI - Your AI tutor              付费门槛与使用额度
+     R067             1  Question.AI - Chatbot&Math AI              付费门槛与使用额度
+     R068             1      Gauth: AI Study Companion              付费门槛与使用额度
+     R070             3  Nerd AI - Tutor & Math Helper              付费门槛与使用额度
+     R074             3  Nerd AI - Tutor & Math Helper             已购权益与跨设备使用
+     R075             3     StudyX: AI Homework Helper                入门与激活求助
+     R080             1 Homework AI - Math & Essay App                   响应速度
+     R081             2      Answer.AI - Your AI tutor              付费门槛与使用额度
+     R082             3      Answer.AI - Your AI tutor                   广告体验
+     R083             3  Question.AI - Chatbot&Math AI                   回答质量
+     R088             2  Question.AI - Chatbot&Math AI 广告体验；回答质量；响应速度；运行与访问故障

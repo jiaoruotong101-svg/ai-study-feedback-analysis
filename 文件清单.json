@@ -1,0 +1,887 @@
+[
+  {
+    "path": "outputs/ai-label-candidates-20261024/development_metadata.jsonl",
+    "bytes": 224471,
+    "sha256": "bad8c55f36a847c7d8f8eeb75973048f59b5ec1e836414c147ad1d0e00b0e442"
+  },
+  {
+    "path": "outputs/ai-label-candidates-20261024/development_text_only.jsonl",
+    "bytes": 40644,
+    "sha256": "95379357b163b4c5775bc78838296df977065836dbb44ea07a2e96003c773dc2"
+  },
+  {
+    "path": "outputs/ai-label-candidates-20261024/screen_duplicates.py",
+    "bytes": 3189,
+    "sha256": "a41e104138ed83cfd91868f6efd1408bd447945e75af02caff1df09e6e5a8b27"
+  },
+  {
+    "path": "outputs/ai-label-candidates-20261024/split_manifest.json",
+    "bytes": 4751,
+    "sha256": "30bc7b01f9f0d41945b215ca6b27cc2ad8859c992ed8d383b5099a7817c1b10c"
+  },
+  {
+    "path": "outputs/ai-label-candidates-20261024/train_metadata.jsonl",
+    "bytes": 1098683,
+    "sha256": "87b2e22199a8a4ef17441f84780cf8875471b920a40deb943664fe274f462991"
+  },
+  {
+    "path": "outputs/ai-label-candidates-20261024/train_text_only.jsonl",
+    "bytes": 201110,
+    "sha256": "3eae7031fdcb74e90a65930fb2b424ac923455f655e174b941dd97a563815b7e"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/all_annotations.jsonl",
+    "bytes": 2563908,
+    "sha256": "80426e826a5ea9e73392ec2145f5f61fa8a6770ab875a825030ac4ef2287026d"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/audit_corrections.json",
+    "bytes": 523,
+    "sha256": "925f4f7d37a335be4c6a7c5b7e3dd658814d77278fb38cbbfdff1763b9231322"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch01.txt",
+    "bytes": 2069,
+    "sha256": "e4b7531df046a779237d24ff4b9a32b6a9df22fa93c78e7bb2500a272e88079c"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch02.txt",
+    "bytes": 2662,
+    "sha256": "66641d7f21d730ca1707393598c991c084794f25e79556a11f62dcfcc50f4ac7"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch03.txt",
+    "bytes": 2010,
+    "sha256": "4443d8a441897b820e35e6d05ddef6920a720e9be1f1b486396fb54dca95355e"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch04.txt",
+    "bytes": 1998,
+    "sha256": "aa9e88ff26b487205f922f4b781e2d230e42ed3055b0c0bf7cef8dc82bbb929a"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch05.txt",
+    "bytes": 1560,
+    "sha256": "465895a32a769c84d1a1ba352d526d40547de8a1713d380252d2b3ecad77ef93"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch06.txt",
+    "bytes": 1935,
+    "sha256": "96b566bafaefbbdc70cd5df943961907f3c911f2e0d849cd365baaf28045e1c3"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch07.txt",
+    "bytes": 1707,
+    "sha256": "bcd816fc63dbd6d699c630f96923d231587e073964ab814cb9bf1c8420aded3e"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch08.txt",
+    "bytes": 2060,
+    "sha256": "8e6be63579240baad8a0d838b4c429c5e23bc8aaeb508b9c3c5d2b255194fb53"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch09.txt",
+    "bytes": 2361,
+    "sha256": "4a5087ffc8b7a1b47a07cc1b74f5e72f0e3a06e959c76817dd4522615ed4eb2e"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch10.txt",
+    "bytes": 1923,
+    "sha256": "26d2ab2515836c6fd5aaf0e1b6461811110c98091cdbee2868cbc0db9efc0a30"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch11.txt",
+    "bytes": 1656,
+    "sha256": "5e77a30d3654983b45e58110dd4749f8944a4bd3e5c07203bc7493aa75b9f819"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch12.txt",
+    "bytes": 1689,
+    "sha256": "f071b8b159294700ac9bd31fa7b0cd1ee6de75b7ecaf363a49ff469a0354f74c"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch13.txt",
+    "bytes": 1592,
+    "sha256": "5dd1ec4d18616d483a3d9eedaa540e299ea482d1b9adeda8e1da4573698652b5"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch14.txt",
+    "bytes": 2029,
+    "sha256": "f3c24bed9de348be57a9b8207e2c547441e85329472a500dc1284cc1477b0b72"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch15.txt",
+    "bytes": 2055,
+    "sha256": "42f7dc3ad435865d549545689123f14cdf7f0b783a26d69411a224a2a715dfd6"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch16.txt",
+    "bytes": 2239,
+    "sha256": "79a660cde38d8040b96474a387bfc9c93f6f4ee856a853cc0bb44bd01fc0b8f6"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch17.txt",
+    "bytes": 2077,
+    "sha256": "fda26b57c2f8b514a395909b590d6e259c0ec3cd4145ed2859f6f18a9df037ff"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/batch18.txt",
+    "bytes": 2157,
+    "sha256": "cadd92a02bcb88ac5f3be5c555df01f469145508a9ba14555c240edc8e9cabe7"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/build_labels.py",
+    "bytes": 8565,
+    "sha256": "5a0550b5c10da1bc0105cb746ef4c13faaeb45d3bf5d81f2c4956a62d3c016b4"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/development_binary.jsonl",
+    "bytes": 45621,
+    "sha256": "028c3e4ad1069b851354675d3a5e22dd699f6e1389ef8830135eb82349287df6"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/development_categories_masked.jsonl",
+    "bytes": 79524,
+    "sha256": "0c43df9191893e86642af55d4a7a4ace2867ed36529e2deba466ed67b1fc91f2"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/duplicate_audit.json",
+    "bytes": 676,
+    "sha256": "bc4a1b1402b98a6886efb08cc5806ebee0ab1b82ad3864d71093972ba43ba5b1"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/label_manifest.json",
+    "bytes": 45897,
+    "sha256": "4e56092aa1c19a444c393c45528eeb74da1f7639c61a0d1ad409ee5775c59ee6"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/pending_and_excluded.jsonl",
+    "bytes": 256266,
+    "sha256": "e840496e13112bade02e8ff82a71f368f7da338e4c6308924e40da27f2ee1416"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/prepare_final_test.py",
+    "bytes": 5072,
+    "sha256": "45f53b3e200c13f8cb45f652a0bee5729d57cde5eb4bba21ae2a70ba37324555"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/review_queue.jsonl",
+    "bytes": 291185,
+    "sha256": "12f136d92e6096aa995831f0cc74fd32c14be279958a8fd7716a31d16c090f59"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/train_baseline.py",
+    "bytes": 6755,
+    "sha256": "fb422972a55765a9dab375587d2897fc653dbd00a9ece753902457d15553191b"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/train_binary.jsonl",
+    "bytes": 223707,
+    "sha256": "821f535ba5f9097cda57639d7b4b5b7416d488c27951dd5a85d8652d47cc3726"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/train_categories_masked.jsonl",
+    "bytes": 392704,
+    "sha256": "51bdacadcaa567681d50f152eccc4a85a9778de1da193cfcb708922ed7c436b7"
+  },
+  {
+    "path": "outputs/ai-labelled-20261026/本阶段结果与下一步.md",
+    "bytes": 6518,
+    "sha256": "1cc51dd3733c303db6c8cc3fb4bb963a7a8cdedbf032df243aa5c957f05c10b5"
+  },
+  {
+    "path": "outputs/AI学习助手用户反馈分析课设选题建议.docx",
+    "bytes": 44500,
+    "sha256": "69d1a713e9ca19316adcd6c9c155a0af46fc269c9d82a17414a922889bc2479e"
+  },
+  {
+    "path": "outputs/calibration60-20261022/blind_sample.json",
+    "bytes": 7458,
+    "sha256": "859421662a75651ee2235c1315ed50ef6410bca8f7bb716f71771d1e19c8251c"
+  },
+  {
+    "path": "outputs/calibration60-20261022/build.mjs",
+    "bytes": 7240,
+    "sha256": "33e967e54cf8a055c34e533534e0b523d51d175aa247b8773ffa516a0508218a"
+  },
+  {
+    "path": "outputs/calibration60-20261022/fill_31_40.mjs",
+    "bytes": 3357,
+    "sha256": "c33f65d6cfa863657904aa428e00a1c0a52bbdc2f28069077a6097cfe975cc2d"
+  },
+  {
+    "path": "outputs/calibration60-20261022/fill_41_50.mjs",
+    "bytes": 3099,
+    "sha256": "58856e85ad5fbe44335e314562252e756615bc225e95fcd6b7e22f77fc3e144c"
+  },
+  {
+    "path": "outputs/calibration60-20261022/fill_51_60.mjs",
+    "bytes": 2926,
+    "sha256": "f42b867355a6c58f5607ee899d493af54d1e6027c92ca86709681a08840c9495"
+  },
+  {
+    "path": "outputs/calibration60-20261022/fill_first10.mjs",
+    "bytes": 3313,
+    "sha256": "75c51a55f36739c9dc6741b7a6435f92f50204dbabc7858d473a7e04be77013b"
+  },
+  {
+    "path": "outputs/calibration60-20261022/fill_next20.mjs",
+    "bytes": 5527,
+    "sha256": "d1ccfb00025a10de51ddcc1e2dc1868d6fd6d4911279f29cace7eebb7a0d13f7"
+  },
+  {
+    "path": "outputs/calibration60-20261022/first10_values.json",
+    "bytes": 2216,
+    "sha256": "6a1a289f480787271cf113ceefa6fe0806286fec3250f9d431eefac059f0f899"
+  },
+  {
+    "path": "outputs/calibration60-20261022/language_exclusions.json",
+    "bytes": 262,
+    "sha256": "8bddffb162163cb681ce847207759d3375a23a36611ccef2c495fa39cd0520e6"
+  },
+  {
+    "path": "outputs/calibration60-20261022/next20_values.json",
+    "bytes": 4717,
+    "sha256": "bcbbaab091d11146e6ce24fe8f7f11a320ae809c79a92458680a8badb538704c"
+  },
+  {
+    "path": "outputs/calibration60-20261022/prepare_ai_candidates.py",
+    "bytes": 4130,
+    "sha256": "9957849d9f5da5159f8f86bdb1bf24d894493c547165ea8754dc653af525697e"
+  },
+  {
+    "path": "outputs/calibration60-20261022/sample_metadata.jsonl",
+    "bytes": 30762,
+    "sha256": "955d941fbe788a84420003de26f864214734393989ce21f73835326f6e434e5b"
+  },
+  {
+    "path": "outputs/calibration60-20261022/sampling_manifest.json",
+    "bytes": 3157,
+    "sha256": "d5dfe1fe340fbf91260121c44e10f972f4816be4d5da17290f522c4e13eb2c1c"
+  },
+  {
+    "path": "outputs/calibration60-20261022/values_31_40.json",
+    "bytes": 2397,
+    "sha256": "7296ce88bf920595bd70b49746d26400498a2d0d1fe758aa4a9c0c12506b7066"
+  },
+  {
+    "path": "outputs/calibration60-20261022/values_41_50.json",
+    "bytes": 2139,
+    "sha256": "3b73ded1b86dfff05cf869592a64faa9c3e784667d71a901f879168433f8ac60"
+  },
+  {
+    "path": "outputs/calibration60-20261022/values_51_60.json",
+    "bytes": 1966,
+    "sha256": "fb10af9a24d0e327a3caa1481691d5afc856456558227f64720fc975c86cd4be"
+  },
+  {
+    "path": "outputs/calibration60-20261022/workbook_verification.json",
+    "bytes": 282,
+    "sha256": "8ad70fa423f87f17409aa98c8142b916c91eef2c5ccff46b4dc596ffebe39e3f"
+  },
+  {
+    "path": "outputs/calibration60-20261022/校准复盘与AI标注规则v0.3.md",
+    "bytes": 5584,
+    "sha256": "f6ed0f9dcfb18991102bc2ce2eb37c1e3fce54deca30da7e0da5c7f3dc7a1b30"
+  },
+  {
+    "path": "outputs/calibration60-20261022/独立人工校准60条.xlsx",
+    "bytes": 15479,
+    "sha256": "c14dad29f0b0707215cbd45bcc4ce04a826221812ee46e7aff7e1114dd6fe3fa"
+  },
+  {
+    "path": "outputs/feedback-baseline-20261026/category_training_masks.json",
+    "bytes": 104280,
+    "sha256": "483dfcf93930b3aa625362fb4a8f4f21b8fa2085807f5efda8278a85b24c212d"
+  },
+  {
+    "path": "outputs/feedback-baseline-20261026/config.json",
+    "bytes": 938,
+    "sha256": "3bff40f9915ffafbe2cb2523905de4e83173971445affdbd9c37edd9ed1087ee"
+  },
+  {
+    "path": "outputs/feedback-baseline-20261026/development_metrics.json",
+    "bytes": 3175,
+    "sha256": "65a23b790f7ec8e2ac96ba7b6ddb7e1603baee89c5bd7995255f44d3763e5595"
+  },
+  {
+    "path": "outputs/feedback-baseline-20261026/development_predictions.jsonl",
+    "bytes": 202124,
+    "sha256": "579a4ee3a0c4586dbcf54afc7507e1bde1ef99bd5dfe684c95bb9f5a5f567c97"
+  },
+  {
+    "path": "outputs/feedback-baseline-20261026/frozen_manifest.json",
+    "bytes": 1420,
+    "sha256": "78564a3b20998a4b2e78d2ac0e785871cacfe806758869a19edf5625d745005a"
+  },
+  {
+    "path": "outputs/feedback-baseline-20261026/model.joblib",
+    "bytes": 282333,
+    "sha256": "1d6bca80765a214d96ee763a6140908d4ff3680452796697028dd222cbb84421"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/app_summary.csv",
+    "bytes": 2251,
+    "sha256": "98221186b808fe21f4e0796e5f8c3c021050d5b39c7af034ec0c233ea8e5b621"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/audit.py",
+    "bytes": 2574,
+    "sha256": "53a471b96650bba0f9f33a63e2c39936aef8846a8392480afe1e8929991548f0"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/audit_log.txt",
+    "bytes": 5354,
+    "sha256": "00036dc67a5a9bdf522626247d8e6f03447e7cfb293716dff1a9a039e9e8523c"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/baseline.json",
+    "bytes": 3207,
+    "sha256": "ef73ef9bc20dc891cc4a406cdd2e1d4c6cfce204a0206b9b5db41586890ea8fa"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/baseline_errors.jsonl",
+    "bytes": 3751,
+    "sha256": "71ba371b101d26c8ca978a67147645d1f10f6013a378d970984be3642e8ab1da"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/candidate.parquet",
+    "bytes": 25156699,
+    "sha256": "a3499113905c2d1cb2e3e5456804a08ac5b4ad0ed86e21815c5be2817b2a0b3b"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/dataset_card.md",
+    "bytes": 9902,
+    "sha256": "6db3eafd41eec090c508d578480977f88c9f01b49efc951dfe0d129885d98393"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/download.py",
+    "bytes": 1365,
+    "sha256": "840e8c7b10e30feb4ee7303072ba262d3ccdc91741b06bd205b1a7bebf2c2322"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/download_manifest.json",
+    "bytes": 5489,
+    "sha256": "579f98e5c88282dcf4fa2fdbef8dbcd5923fcb6de8c8e9bfd533aeeb78a4f20a"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/issue_examples.json",
+    "bytes": 7985,
+    "sha256": "a9352fcbf2fb25693d8cc3203ebf63a821c5abf47c4a242faff05e7f3ca8d7c6"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/keyword_signals.csv",
+    "bytes": 586,
+    "sha256": "f4c80d509af8ed12de616d941192a61bd815eafe390244b817f700549408791a"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/monthly.csv",
+    "bytes": 8609,
+    "sha256": "0e8d8fa7bef56133d0cd8668f2a14fa9865adb4847b6225dfd09f698531de7c0"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/preliminary.py",
+    "bytes": 4227,
+    "sha256": "44e3438f85203a26c1a62e0f00ba8c2c098d460b62c7329aebd80feda14ea9e4"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/quality.json",
+    "bytes": 2496,
+    "sha256": "ec67244d5058ba83d4149c797eeaaf644e68daf2923ad1b9a96c0331c4947ba5"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/requirements-lock.txt",
+    "bytes": 216,
+    "sha256": "85b70a992ace3cdc7383ef47512de03e1c3fc8105ceec071169169d1d5529d72"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/analysis_log.txt",
+    "bytes": 9187,
+    "sha256": "8ff8322b07fccb5abd60c47b2d93c04aa9d5dfe72de13ca609a5ac2f8be39e18"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/analyze_expanded.py",
+    "bytes": 6958,
+    "sha256": "820add18d0a002008704af55ee575bd7aa103223cbd341b276db9b4bcc82f3d1"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/annotations_A.tsv",
+    "bytes": 6575,
+    "sha256": "039410d150ab7ceca0abd44ab04c28a4ea5c5f9b391931b1ff5d9ac34d9da011"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/annotations_B.tsv",
+    "bytes": 6694,
+    "sha256": "4298cda5b003afe922cca0b18878eb9eb92c8f4eeaf03ee8d538491c48c244a4"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/blind_A.jsonl",
+    "bytes": 14570,
+    "sha256": "95fe0157f7cbb8c5d4755f065ec90178e8a516f8dbd82c71cfebe814db743d0d"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/blind_B.jsonl",
+    "bytes": 14024,
+    "sha256": "a9ea9098c63ad5f87183376d2276be33187e8bae4d7ba399f589799140c781fb"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/expanded_summary.json",
+    "bytes": 7360,
+    "sha256": "50f4324926cc1a241aa3515c76195c2c8455ed1f82a453ef981cab0439d16199"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/frozen_codebook_v01.md",
+    "bytes": 4169,
+    "sha256": "06c209a0a4b672951d1c02e6244d88cdd45c10b4e7f01e3530392005935730e6"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/prepare_workbook.py",
+    "bytes": 3397,
+    "sha256": "b720490b72b9fa581235b2a39a00b85b7c4bfc5504699370e9b4cf82d9f865de"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/reviewed_all270.jsonl",
+    "bytes": 256449,
+    "sha256": "77c2506e55a13fd799079d5205045b8721b1b5460b1812e3682bf878447e00a3"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/reviewed_new180.jsonl",
+    "bytes": 163806,
+    "sha256": "050826e7270059c41ea3c7016ac08a92167f2e761a57a69a6547d2e11619feff"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/sample_expanded.py",
+    "bytes": 2148,
+    "sha256": "ee9d2f2823a0810485288b207157ffa02c0b69d91926713fa41a3fa4f2b106fb"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/sample_metadata.jsonl",
+    "bytes": 108075,
+    "sha256": "405189608d57aeae90e59e360db3aea1247379b23c84bd46cc4fe8f4ea18f632"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/sampling_manifest.json",
+    "bytes": 409,
+    "sha256": "d2d756aab5b00e0945e4e2fad82805a8a66b6f1828c9df87223328d73efc3f14"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/summary_cached_values.json",
+    "bytes": 2261,
+    "sha256": "6906952471774eb21f566b5e18c37a731bbdd06ff1a9b1deb0752da5ec5df00c"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/workbook_data.json",
+    "bytes": 107577,
+    "sha256": "8960c55cbda290f3a635e33e88590e1e5ce40bfd2a1b1f313a57d3bfd253d3e1"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/workbook_verification.json",
+    "bytes": 392,
+    "sha256": "7f256d45ebace16e5585279300ce7c3ea7e7c81aec051fad7d7db10b44da8b3b"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/分批分类统计.csv",
+    "bytes": 231,
+    "sha256": "dc90c6acfb961eb8fe7a451b15724062371c105f3a6d1eb168113e067146c492"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/分批评分层统计.csv",
+    "bytes": 175,
+    "sha256": "ee2c92a0a2e85e1b6cf11b45cc2e0c1674389dab956fc6bd805153fe94af613c"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/子类稳定性.csv",
+    "bytes": 437,
+    "sha256": "a559635cfe1c619bc686f2ec590217c99fbb9b04397f11b1573d18e9abaf6235"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/扩大抽样核验结论.md",
+    "bytes": 9561,
+    "sha256": "3322f1e54e5893c3174408e93f19bd30aceca87dc540c290600eb198e437d33c"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/扩大核验270条.xlsx",
+    "bytes": 72057,
+    "sha256": "3ea78871d69929a3a7ad4b4e07c342e4b847e4b19aa693f5d3c9ac938217b504"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/旧关键词与核验不一致案例.csv",
+    "bytes": 8431,
+    "sha256": "c68812242c8935eb7fcb820f8c429cef256ebecc629e024a57915f105a78b996"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-expanded/累计270条核验明细.csv",
+    "bytes": 140644,
+    "sha256": "0473b4920123b66120ffcc62d1366d179e53e4fc3a76fe8882938cde9408e5b4"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-pilot/annotate_pilot.py",
+    "bytes": 8948,
+    "sha256": "e0250cf756f867f02c537a7dfeec04521c686a1d72e604c6ab54683cf2d177a7"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-pilot/annotation_log.txt",
+    "bytes": 5838,
+    "sha256": "d8f11295715819fdb9d186118ebe30181cbced59eec8e4bdc24bd3bec8726a0c"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-pilot/blind_review.jsonl",
+    "bytes": 13161,
+    "sha256": "3f2691faa6384071452d88cb2e41cb6303eda401e82d540550da3a5d05a79fe6"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-pilot/pilot_summary.json",
+    "bytes": 1694,
+    "sha256": "979bfbb3dfe98c158dd321821708b33e3016a029aecddaad5984650113953afd"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-pilot/reviewed_90.jsonl",
+    "bytes": 72286,
+    "sha256": "62e6340b934b770dc09cbbe58e9145417c366f764dadee6ce00339b7d001f2b4"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-pilot/sample_pilot.py",
+    "bytes": 907,
+    "sha256": "d492f22c974541bfc447432365cb1b4ff13ee26ddd226a1097419903df5263b8"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-pilot/sample_with_metadata.jsonl",
+    "bytes": 43556,
+    "sha256": "602beee41b78db0c45d31a99ba0ac881ab4d7927f27cb55df3b3d593e2749016"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-pilot/一级分类统计.csv",
+    "bytes": 378,
+    "sha256": "1e439b81d16e69aa741e43e3d92048ab122ff27d64d838e90cad4dfe8af24aea"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-pilot/评论核验90条.csv",
+    "bytes": 41801,
+    "sha256": "c168078ef63baa2cf73938d191abcf4f4e288ecf3b7abc406e6a946958260419"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-pilot/问题分类规则.md",
+    "bytes": 4169,
+    "sha256": "06c209a0a4b672951d1c02e6244d88cdd45c10b4e7f01e3530392005935730e6"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/review-pilot/首批评论核验结论.md",
+    "bytes": 8169,
+    "sha256": "2b1d5b8add40c6d927c9a8458fb1798abc9e6fce7a7868efb0a3f84439e90822"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/sample.jsonl",
+    "bytes": 16503,
+    "sha256": "396bc47fdb110e3b51bf467101de87e37fb219c8c654daa1997fcf7ab9e0f256"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/selected_apps.csv",
+    "bytes": 601,
+    "sha256": "9d6f4ecc766e14fd4ace5beb856ca1a281b0e31f9f4a549d1a4b9cbc748ae555"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/source_metadata.json",
+    "bytes": 16508,
+    "sha256": "602fe020c8801facedd978137f7e28f517864cb7948419ad77cac1896ca042c9"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/study_subset_82004.parquet",
+    "bytes": 9642041,
+    "sha256": "8d10717fec5084d1aa41d5aef557f78e51873777c191e28f71915927d1099c41"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/test_predictions.parquet",
+    "bytes": 1018925,
+    "sha256": "1580ae1dac9df21bb6bffa8d5bd09620e55693b2de90d5c7e082a12b1d8e1d36"
+  },
+  {
+    "path": "outputs/genai-edsent-audit-20261016/数据质量与课题可行性报告.md",
+    "bytes": 11737,
+    "sha256": "f1fa3b295d2ec286b6775718b256a69f0428901d51e7d76b94d39484f115bf46"
+  },
+  {
+    "path": "outputs/human-evaluation-20261030/metrics.json",
+    "bytes": 2904,
+    "sha256": "5cde438646bae7eb06f8da936716c50938eee8128dd12edd7a6b60773caaba7e"
+  },
+  {
+    "path": "outputs/human-evaluation-20261030/predictions.jsonl",
+    "bytes": 169112,
+    "sha256": "1a0e55a8bcb439ea6bb43b71b5a2b4f90a4f0c7bc3a45b29d1fce87be8cf03be"
+  },
+  {
+    "path": "outputs/human-evaluation-20261030/word_report/AI学习助手体验问题识别课程报告.docx",
+    "bytes": 3433482,
+    "sha256": "485f592b9438933adcb9adef7dce7e7ce1f39637a12a1bb9b9f86603b0942473"
+  },
+  {
+    "path": "outputs/human-evaluation-20261030/人工评测结果.md",
+    "bytes": 4158,
+    "sha256": "458d5a4fd009f7055597df2ab9d63f0857279c5786676ff35fd2fd76c4598071"
+  },
+  {
+    "path": "outputs/human-evaluation-20261030/课程报告实验章节初稿.md",
+    "bytes": 9170,
+    "sha256": "d091c9e00ba83a0ee5ffcbe67f92af627bfb6800093c1360e6c3e84fd5bfb347"
+  },
+  {
+    "path": "outputs/human-evaluation-20261030/逐条对照.csv",
+    "bytes": 35020,
+    "sha256": "e08200547664e15527d4ef1893ac75a239b3d710c403722c7125f54f1b064413"
+  },
+  {
+    "path": "outputs/human-review-20261020/build.mjs",
+    "bytes": 15143,
+    "sha256": "28c16861efe3518020e85bf89a1fd45bbe755ef36f63faf9664ac06e5147d500"
+  },
+  {
+    "path": "outputs/human-review-20261020/fill_first6.mjs",
+    "bytes": 2872,
+    "sha256": "0649265598602a8c221ab73ac11d6fee9aef43df6de806f87fa1dd902182d9a0"
+  },
+  {
+    "path": "outputs/human-review-20261020/fill_remaining.mjs",
+    "bytes": 11846,
+    "sha256": "44a06989189490187989090aecec73d2fa795f719b8ce3ff0ab7336bfce7c101"
+  },
+  {
+    "path": "outputs/human-review-20261020/first6_values.json",
+    "bytes": 1380,
+    "sha256": "891ed8bf1573c53e69ab719c9eb0d9e5133a31276113745c8337b9c15f4ba733"
+  },
+  {
+    "path": "outputs/human-review-20261020/prepare_calibration.py",
+    "bytes": 4035,
+    "sha256": "aa6a6bb095b03861c89bac21b7f41ff91f4b1d9f293d92ca3bdf6f8cfbeff900"
+  },
+  {
+    "path": "outputs/human-review-20261020/remaining_values.json",
+    "bytes": 11091,
+    "sha256": "040b18bf7cbca336335491dfb97a93b99ce0e77c7209c2404a91340399249baa"
+  },
+  {
+    "path": "outputs/human-review-20261020/verification.json",
+    "bytes": 825,
+    "sha256": "eb0b8e13a88396a529bbafd0f45f3246610b76b9f52d73fa670c5c87ef88e357"
+  },
+  {
+    "path": "outputs/human-review-20261020/verification_remaining_20261022.json",
+    "bytes": 568,
+    "sha256": "825905ce7a5266d0b7cb7ba9972a07806c5a7aa40dcb420cb81d80d32fbbe3e1"
+  },
+  {
+    "path": "outputs/human-review-20261020/优先人工复核40条.xlsx",
+    "bytes": 24763,
+    "sha256": "44cc6a1958fb2a31ba182d0e9c6b78a18f2740d30d4cccc5534c167ea699d273"
+  },
+  {
+    "path": "outputs/human-review-20261020/分类规则v0.2与后续核验计划.md",
+    "bytes": 12653,
+    "sha256": "e77771ab211b13572ce583c281cdb60345ce82466115c4ca843aa2f9e80513ff"
+  },
+  {
+    "path": "outputs/human-test180-20261026/blind_sample.json",
+    "bytes": 23965,
+    "sha256": "66566f2c5b538611ca5b5f52d3b31df2eda2bbb3ca9e48b2fb9a7c013de82061"
+  },
+  {
+    "path": "outputs/human-test180-20261026/build.mjs",
+    "bytes": 8140,
+    "sha256": "2cd43d8548ce38a1e017909b47a18956715fe8f8a0eacf0c5b16ec62a0d0299c"
+  },
+  {
+    "path": "outputs/human-test180-20261026/evaluate_frozen.py",
+    "bytes": 4569,
+    "sha256": "73404ae24e5fb97892b24f8de7b22928d121e2aa24e523d6ae75da691e179768"
+  },
+  {
+    "path": "outputs/human-test180-20261026/human_decisions_20261030.json",
+    "bytes": 75515,
+    "sha256": "53692b4a5192c1381582144170ce9da4b7609032f1bedaeb403cc2a954ff03f9"
+  },
+  {
+    "path": "outputs/human-test180-20261026/human_write_verification.json",
+    "bytes": 508,
+    "sha256": "68323022388e04e9ca26fd7fdfbe259c219d6164feb447ced5d5be33209c5f73"
+  },
+  {
+    "path": "outputs/human-test180-20261026/language_screen_exclusions.json",
+    "bytes": 237,
+    "sha256": "6bbd2b3e2caa04769e3cc17c5424fd22f76a287b4650fd6fbf0423fc639b5dd2"
+  },
+  {
+    "path": "outputs/human-test180-20261026/language_screen_first_pass_ids.json",
+    "bytes": 7200,
+    "sha256": "8e554e9d5bd02c3fe00a5b110c46f82d40380bd234698ae578fa9c980f0b2b29"
+  },
+  {
+    "path": "outputs/human-test180-20261026/sample_metadata.jsonl",
+    "bytes": 97027,
+    "sha256": "e59b73adec6e28583fbf9de4fed3209e3fcd3ffac3d7eefc4c6ab6d0da1e6fce"
+  },
+  {
+    "path": "outputs/human-test180-20261026/sampling_manifest.json",
+    "bytes": 3093,
+    "sha256": "f7ce9b3759caeccac2089f7f7369aa391cf9fa223f5a15e803e809c62a327fa7"
+  },
+  {
+    "path": "outputs/human-test180-20261026/save_human.mjs",
+    "bytes": 17457,
+    "sha256": "465242e21d2c8a536b3d0e778591d41a4aacdf1d068bac90c4512cc37ec8622e"
+  },
+  {
+    "path": "outputs/human-test180-20261026/workbook_verification.json",
+    "bytes": 496,
+    "sha256": "6f81e1867c624340514e5811f6146be5b17c9bc341d39f354d952efcdc458861"
+  },
+  {
+    "path": "outputs/human-test180-20261026/独立人工测试180条.xlsx",
+    "bytes": 27633,
+    "sha256": "6b92fdf365869ee1b9a5f933546280739c67aeb7a2e7db603ca9a417c0c91416"
+  },
+  {
+    "path": "package_coursework.py",
+    "bytes": 6162,
+    "sha256": "94479caadc6b5f724732bc8b81f160287ab01c6ec91bccc225e288e029b570e2"
+  },
+  {
+    "path": "PROJECT_HANDOFF.md",
+    "bytes": 31962,
+    "sha256": "64a6754bdba9515bcdf6dd464092b8fea4b0c44643353017a2b962947b57bb22"
+  },
+  {
+    "path": "数据/dataset_card.md",
+    "bytes": 9902,
+    "sha256": "6db3eafd41eec090c508d578480977f88c9f01b49efc951dfe0d129885d98393"
+  },
+  {
+    "path": "数据/GenAI-EdSent/dataset_card.md",
+    "bytes": 9902,
+    "sha256": "6db3eafd41eec090c508d578480977f88c9f01b49efc951dfe0d129885d98393"
+  },
+  {
+    "path": "数据/GenAI-EdSent/download_manifest.json",
+    "bytes": 5489,
+    "sha256": "579f98e5c88282dcf4fa2fdbef8dbcd5923fcb6de8c8e9bfd533aeeb78a4f20a"
+  },
+  {
+    "path": "数据/GenAI-EdSent/source_metadata.json",
+    "bytes": 16508,
+    "sha256": "602fe020c8801facedd978137f7e28f517864cb7948419ad77cac1896ca042c9"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00000-of-00016.parquet",
+    "bytes": 5883198,
+    "sha256": "24c3dacab5e5fc90ea5f185b50e4bf8ee4707c56c4d16fb0fb515a76c546669a"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00001-of-00016.parquet",
+    "bytes": 4645237,
+    "sha256": "c73fbb51b6956e5885952b5579ca6db3bb5cd753fa68159d6a07617d81e9c22f"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00002-of-00016.parquet",
+    "bytes": 5904525,
+    "sha256": "8c1398b07186ec44637c46c799647cf0ecbd0d8ee423b206644c82412fb90342"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00003-of-00016.parquet",
+    "bytes": 6951272,
+    "sha256": "d1aecdacdaf1c8c590085a35cb889b4a67d117735f5a4065620f20010bc748f6"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00004-of-00016.parquet",
+    "bytes": 7082311,
+    "sha256": "27ddaf09315aceb7c4a2705a1c0e5de825784cc05095ce718578c1fdc668e93e"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00005-of-00016.parquet",
+    "bytes": 5979390,
+    "sha256": "ab8da0cac0cda0203a14e979b49f92cb8a4bc92559e35161a1239ccf4af14b77"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00006-of-00016.parquet",
+    "bytes": 6227792,
+    "sha256": "5284e4310e8f51c210af01115086a367d0c21b294adb880eaa7df91213d7b380"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00007-of-00016.parquet",
+    "bytes": 6105348,
+    "sha256": "cde6d568cd02be0ecab4f7d767cbc7003c23df1a9aa92d16f940c9b38cdd1b27"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00008-of-00016.parquet",
+    "bytes": 6022032,
+    "sha256": "25c51a64829d6a0f7adcc9e3b5ad3f2e665b4bad9f3f8c3d3d405e54b54ef45c"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00009-of-00016.parquet",
+    "bytes": 6110021,
+    "sha256": "0739e942d781f9bed267e2a61cb289282fe487ef303174059d70955ade8029e9"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00010-of-00016.parquet",
+    "bytes": 6326575,
+    "sha256": "61858563bd091c4723b13adf6b0c61a2eebd3fe397bf2c507553c1ecdf861845"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00011-of-00016.parquet",
+    "bytes": 6319333,
+    "sha256": "e5fe6ef1f351215708da0de92eabe8b93eba1306ff8afccb14824513430e3c9f"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00012-of-00016.parquet",
+    "bytes": 6532875,
+    "sha256": "6c16bb3cdc04b9124d24caf3784c44ff51ed6f01c5979bda9e533874b4ae4919"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00013-of-00016.parquet",
+    "bytes": 6429073,
+    "sha256": "97cd39d6556ac428be21d5a29f78a542f9ced0d9801e5aebd5d6b1f57311d199"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00014-of-00016.parquet",
+    "bytes": 6113731,
+    "sha256": "726756d3a7c3e9523ca834b097cc819960ebda601469147f258683598d63e67c"
+  },
+  {
+    "path": "数据/GenAI-EdSent/train-00015-of-00016.parquet",
+    "bytes": 5143791,
+    "sha256": "b5d60861f41d32741e458b5886aa06499919e636b17539f99eeea12d0b96e65d"
+  },
+  {
+    "path": "数据/README.md",
+    "bytes": 682,
+    "sha256": "adafd39d37f7a92e44f0135347c0282192904138fdd0a94db9dbbe61200d8fcd"
+  },
+  {
+    "path": "运行指南/requirements.txt",
+    "bytes": 112,
+    "sha256": "9d13067c5c96d78b12b490f8073fc6ec36fa02b93ce0b0f97ada8a9159d85169"
+  },
+  {
+    "path": "运行指南/一键复现.cmd",
+    "bytes": 602,
+    "sha256": "7915eabfa2abfa05c1481f20bb5e3c83c1e8d58200d7c71212e69fbe848086b2"
+  },
+  {
+    "path": "运行指南/复现评测.py",
+    "bytes": 1727,
+    "sha256": "965b3041cc32d887eb2b91edc16a9d09124a0ca0b0d81eeab9426519e9603fae"
+  },
+  {
+    "path": "运行指南/换电脑运行指南.md",
+    "bytes": 6394,
+    "sha256": "3aa1416e3edef62ff6f03420467f4b8e00ece157522509fedc53e084067cdd84"
+  },
+  {
+    "path": "课程要求/2026年大数据管理与应用专业课程设计大纲 - 数据分析类.doc",
+    "bytes": 17920,
+    "sha256": "7ca8b38738c66b8dded8ba2dc281d5dfb6a3567301eda387382939acdaf78269"
+  },
+  {
+    "path": "课程要求/大连理工大学大数据管理与应用专业课程设计格式模板.doc",
+    "bytes": 148992,
+    "sha256": "365944b7a5988f94686325bc1f6dadc03b78b64ab47fe77934299697a5e35a28"
+  }
+]

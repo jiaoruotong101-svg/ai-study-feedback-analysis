@@ -1,0 +1,34 @@
+{
+  "changed_cells": 170,
+  "filled_records": 40,
+  "feedback_counts": {
+    "有": 27,
+    "无": 8,
+    "不确定": 5
+  },
+  "language_pending": [
+    "E015",
+    "E019",
+    "E021",
+    "E053",
+    "E063",
+    "E092",
+    "E121",
+    "E150",
+    "E163",
+    "E167"
+  ],
+  "category_pending": [
+    "E019",
+    "E044",
+    "E052",
+    "E063",
+    "E091",
+    "E100",
+    "E127",
+    "E137",
+    "E145"
+  ],
+  "other_values_and_styles_preserved": true,
+  "sha256": "44cc6a1958fb2a31ba182d0e9c6b78a18f2740d30d4cccc5534c167ea699d273"
+}

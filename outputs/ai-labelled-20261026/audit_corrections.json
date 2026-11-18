@@ -1,0 +1,6 @@
+[
+  {"sample_id":"T0211","before":"N","after":"P","reason":"复查无反馈项时发现makes you pay，补回收费门槛标签"},
+  {"sample_id":"T0663","before":"N","after":"P","reason":"复查发现without payment，补回收费门槛标签"},
+  {"sample_id":"T0970","before":"N","after":"AP","reason":"复查发现错答和付费浪费，补回两个类别"},
+  {"sample_id":"T0383","before":"N","after":"S","reason":"wrong answer可能是使用前自己作答，也可能指应用，改为不确定而非无反馈"}
+]

@@ -1,0 +1,23 @@
+{
+  "rows_verified": 270,
+  "all_16_columns_match": true,
+  "summary_cached_values_verified": {
+    "B6": 90,
+    "B7": 90,
+    "B8": 90,
+    "C6": 43,
+    "C7": 40,
+    "C8": 44,
+    "D7": 2,
+    "E12": 67,
+    "E13": 53,
+    "E14": 7,
+    "E18": 46,
+    "E19": 54,
+    "E20": 26,
+    "E21": 10,
+    "E22": 3,
+    "E23": 2
+  },
+  "wps_open_recalculate_save": "passed"
+}

@@ -1,0 +1,44 @@
+﻿sample_id,batch,review_score,text,issue_codes,evidence_excerpt,review_note,keyword_hit
+E001,A,5,love the app I love writing my own blogs and poems and things like that and the one app that stops the games from freezing and videos from loading in the middle of my game!!,,love writing my own blogs,正向评价混入游戏和视频场景，与学习助手用途不完全一致,True
+E005,A,1,Evrytime I try to use it ot kicks me off🙄😡,TECH,kicks me off,使用时被退出，原因未明,False
+E006,A,2,it is good despite the fee,PAY,despite the fee,正向评价中附带轻度收费异议,False
+E009,A,3,It's alright only thing that needs work is it speed sometimes it is slow,SPEED,sometimes it is slow,速度不稳定,False
+E014,A,1,"I gave this app a 0 because after u uses it like one time it tells u this ""Oops, you've hit your messaging limit! On the free plan, you've limited to 2 messages in total. Upgrad for unlimited chats!"" Like I Do not think u sound have a limited to JUST 2 messages like what the heck that is just crazy and if u put ""UNLOCK PRO🚀"" it just tells u to buy it, like im not going to buy it because u can just do to ""gough"" AND YES it is free u do not need to buy anything and u do not have a limited to 2 me",PAY,limited to 2 messages,免费两次额度不够并比较免费替代品,False
+E015,A,5,Badiya hai but fees Deni padhegi,PAY,but fees Deni padhegi,印地语转写：很好但需要付费；轻度异议，待语言复核,False
+E016,A,3,this is good app for studies but it want permmisson for access things,NEW_PERMISSIONS,permmisson for access things,表示对索要访问权限有异议；原分类缺少此项，具体权限不明,False
+E018,A,3,yiii this app actually helps no subscription needed,,no subscription needed,赞扬无订阅，不标收费问题,True
+E029,A,3,Is the website currently down? I using this on PC,TECH,website currently down,询问PC网站故障，属于网站端；无法证实宕机,False
+E035,A,5,The app is great and easy-to-use but sometimes it doesn't show steps on how to solve a problem'it gives a straight answer,EXPLAIN,doesn't show steps,缺少解题步骤,False
+E037,A,1,The app keeps telling me bad connection when all my other apps work and I'm literally sitting next to my wifi box. Waste of time don't download. 👎👎,TECH,bad connection,称其他应用可用而本应用报连接错误,False
+E044,A,3,give answer in equation type plz,EXPLAIN,equation type,希望用方程形式表达；属于解释呈现需求而非故障,False
+E052,A,3,the app is good but it takes so many ⚡,PAY,takes so many ⚡,疑似能量积分消耗过多，含义应人工确认,False
+E053,A,1,does not really gives important information puro walang kwenta tapos pag sinabi mo mali sagot uulitin padin tanga amputa mali mali pa yung info na binibigay,"ANSWER,UNDERSTAND",mali sagot uulitin padin,英菲混合语：信息错、纠正后仍重复，待语言复核,False
+E055,A,4,The app is correct and good for everyone to use,,correct and good,赞扬准确性,True
+E057,A,5,So very grateful she give a correct answer,,correct answer,赞扬准确性,True
+E063,A,5,Gggg ho Ronaldo ki dusri Siva ry hai main bhi kam se photo frame and hollow core i3 laptop ka number of devices allowed by the way to aisi ho kya mast hai main bhi kam kar rahi thi aur diagrams and charts and hollow core i3 laptop ka number of devices allowed by the way to aisi ho kya mast hai yaar hai main bhi kam kar rahi hai yaar ye ka number of devices allowed by the way to aisi ho kya mast hai main bhi kam kar rahi thi aur diagrams and hollow fibre and the other side ka number bhej do you,,Ronaldo,重复拼接、主题混乱，无法识别产品反馈,True
+E064,A,5,I love it so much!!the answers are correct perfectly!!❤❤,,answers are correct,赞扬准确性,True
+E067,A,1,This app is so hard to reach up i need my refund back,BILLING,need my refund back,退款诉求；hard to reach含义不明，不推断客服缺失,False
+E068,A,3,The AI Is Sweet but the 2 things i hate was Repeating The Answer like 25 times and everytime i tell about math equations he tells about another subject like science:/,UNDERSTAND,Repeating The Answer,重复回答、数学问成科学，任务偏离,False
+E070,A,1,It's always saying connection failed even though I have connections,TECH,connection failed,持续连接错误,False
+E071,A,3,Please I really need it I just didnt know it will automatically purchase after the trial please I don't need a full refund I just need a fair refund you can take some of it but please I really need a refund that was my mom's gcash please I didnt use the app after the purchase please,BILLING,automatically purchase after the trial,试用自动扣款与退款诉求,False
+E072,A,3,It doesn't work sometimes,TECH,doesn't work sometimes,间歇无法使用,False
+E093,B,3,nice app but the problem is this app is puchase app,PAY,problem is this app is puchase,明确指出付费问题,False
+E100,B,1,will not give me the answers most of the time,TECH,will not give me the answers,经常不返回答案，原因不明，不认定错答,False
+E102,B,1,Not sport in urdu topic,UNDERSTAND,urdu topic,疑似不支持乌尔都语主题，任务限制；措辞有误待复核,False
+E108,B,3,no money needs to be spent,,no money needs,赞扬无需付费，不标收费问题,True
+E112,B,4,"The app is very good and sufficient and it doesn't just help in school work it helps with everything imaginable, am so happy i insulted this app 😊, but d only thing i don't like us that someone runs out of bars, but aside that is great",PAY,runs out of bars,疑似能量额度用尽，待复核术语,False
+E115,B,5,its very very good. But it give plenty explanations😃. its really good. it solve every question.,,plenty explanations,赞扬中出现but，但未明确嫌解释过多，保守不标问题,True
+E118,B,3,"Wow best AI ever, I really enjoyed the app. But please increase our usage.",PAY,increase our usage,赞扬并请求增加使用额度,False
+E121,B,1,"Juga kehed anjying, burik pisan. Teu bisa basa sunda, belegug",UNDERSTAND,Teu bisa basa sunda,巽他语：不会巽他语，语言能力反馈待复核,False
+E129,B,3,I would rate this 5 stars but it's just that I can't chat with the ai even tho I still have some ⚡,TECH,can't chat with the ai,仍有能量但无法聊天，不能简单算额度耗尽,False
+E132,B,1,"It should be free of cost for all. Atleast one or two questions for free trials, I dissatisfaction with this app",PAY,free trials,希望免费试用与取消收费,False
+E133,B,1,2 limit question and when I'm taking a screenshot it doesn't even look good it keeps on making in different directions,"PAY,UI",different directions,两次额度限制及截图方向问题；方向描述待复核,False
+E134,B,3,I still do not understand how nerd AI is used.,ONBOARD,do not understand how,不会使用，入门求助,False
+E137,B,1,very bad app this not answering,TECH,not answering,不返回答案，根因不明,False
+E141,B,2,The basic answer it is giving is of some different language other than English and i can't change it in the settings,"UNDERSTAND,UI",can't change it in the settings,输出非所需英语，无法在设置改变；语言和设置问题,False
+E144,B,3,it stop operating when time goes,TECH,stop operating,使用一段时间后停止运行,False
+E149,B,3,the app is really good and helpful It gives really efficient answers to theoretical questions the only thing bothering me is the limit for asking follow up questions and the reminder to buy plus feature rest everything is fine,PAY,limit for asking follow up questions,追问额度和购买提醒造成不满,False
+E151,B,5,amazing gives you clear answers and explanations,,clear answers and explanations,赞扬解释,True
+E164,B,1,Amezing app all of the energy in one question is all gone now your app not amezing because its poor ai and the app is so embarrassing i dont like this app dont trust this app,PAY,energy in one question is all gone,一题耗尽能量，具体机制未核实,False
+E165,B,5,"Been using it for a while and no ads, also it gives a very good explanation to everything.",,no ads,赞扬无广告和解释，不标问题,True
+E180,B,3,Helped me out of a math pickle thanks a pity it very limited use for newcomers,PAY,limited use for newcomers,赞扬帮助但新用户额度有限,False

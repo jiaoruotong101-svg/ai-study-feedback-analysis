@@ -1,0 +1,136 @@
+{
+  "method": "Human final decisions with AI translations and label-specific options; frozen model predictions unseen during labeling",
+  "binary": {
+    "n": 178,
+    "positive_n": 92,
+    "accuracy": 0.8764044943820225,
+    "precision": 0.8431372549019608,
+    "recall": 0.9347826086956522,
+    "f1": 0.8865979381443299,
+    "macro_f1": 0.8753977345042636,
+    "confusion": [
+      [
+        70,
+        16
+      ],
+      [
+        6,
+        86
+      ]
+    ]
+  },
+  "always_negative_baseline": {
+    "n": 178,
+    "positive_n": 92,
+    "accuracy": 0.48314606741573035,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "macro_f1": 0.32575757575757575,
+    "confusion": [
+      [
+        86,
+        0
+      ],
+      [
+        92,
+        0
+      ]
+    ]
+  },
+  "categories": {
+    "回答与任务完成": {
+      "n": 167,
+      "positive_n": 38,
+      "accuracy": 0.8562874251497006,
+      "precision": 0.675,
+      "recall": 0.7105263157894737,
+      "f1": 0.6923076923076923,
+      "macro_f1": 0.7992788461538461,
+      "confusion": [
+        [
+          116,
+          13
+        ],
+        [
+          11,
+          27
+        ]
+      ]
+    },
+    "收费与权益": {
+      "n": 168,
+      "positive_n": 34,
+      "accuracy": 0.9226190476190477,
+      "precision": 0.8181818181818182,
+      "recall": 0.7941176470588235,
+      "f1": 0.8059701492537313,
+      "macro_f1": 0.8788215058536315,
+      "confusion": [
+        [
+          128,
+          6
+        ],
+        [
+          7,
+          27
+        ]
+      ]
+    },
+    "运行体验": {
+      "n": 165,
+      "positive_n": 11,
+      "accuracy": 0.9333333333333333,
+      "precision": 0.5,
+      "recall": 0.45454545454545453,
+      "f1": 0.47619047619047616,
+      "macro_f1": 0.720295885344429,
+      "confusion": [
+        [
+          149,
+          5
+        ],
+        [
+          6,
+          5
+        ]
+      ]
+    },
+    "界面与广告": {
+      "n": 164,
+      "positive_n": 10,
+      "accuracy": 0.9695121951219512,
+      "precision": 0.7777777777777778,
+      "recall": 0.7,
+      "f1": 0.7368421052631579,
+      "macro_f1": 0.8603304377448475,
+      "confusion": [
+        [
+          152,
+          2
+        ],
+        [
+          3,
+          7
+        ]
+      ]
+    }
+  },
+  "excluded_binary": [
+    "H068",
+    "H172"
+  ],
+  "category_micro": {
+    "observed_cells": 664,
+    "precision": 0.717391304347826,
+    "recall": 0.7096774193548387,
+    "f1": 0.7135135135135136
+  },
+  "verification": {
+    "model_hash_unchanged": true,
+    "human_labels_sha256": "53692b4a5192c1381582144170ce9da4b7609032f1bedaeb403cc2a954ff03f9",
+    "script_sha256": "73404ae24e5fb97892b24f8de7b22928d121e2aa24e523d6ae75da691e179768",
+    "n_predictions": 180,
+    "no_fit_or_tuning": true
+  }
+}

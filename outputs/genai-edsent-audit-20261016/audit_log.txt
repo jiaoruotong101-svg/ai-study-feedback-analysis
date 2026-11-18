@@ -1,0 +1,141 @@
+{
+  "rows": 480831,
+  "columns": [
+    "app_name",
+    "source_file",
+    "review_reviewId",
+    "review_userName",
+    "review_userImage",
+    "review_content",
+    "review_score",
+    "review_thumbsUpCount",
+    "review_reviewCreatedVersion",
+    "review_at",
+    "review_replyContent",
+    "review_repliedAt",
+    "review_appVersion",
+    "app_info_json",
+    "app_title",
+    "app_summary",
+    "app_description",
+    "app_descriptionHTML",
+    "app_genre",
+    "app_genre_id",
+    "app_developer",
+    "app_developer_email",
+    "app_installs",
+    "app_minInstalls",
+    "app_realInstalls",
+    "app_score",
+    "app_ratings",
+    "app_reviews_count",
+    "app_price",
+    "app_free",
+    "app_offersIAP",
+    "app_inAppProductPrice",
+    "app_appId",
+    "app_url",
+    "app_icon",
+    "app_headerImage",
+    "app_released",
+    "app_lastUpdatedOn",
+    "app_updated_ts",
+    "app_version"
+  ],
+  "missing": {
+    "app_name": 0,
+    "app_appId": 0,
+    "source_file": 0,
+    "review_reviewId": 0,
+    "review_content": 7,
+    "review_score": 0,
+    "review_at": 0,
+    "review_reviewCreatedVersion": 98554,
+    "review_replyContent": 311641,
+    "review_repliedAt": 311641,
+    "review_thumbsUpCount": 0
+  },
+  "duplicate_rows_on_audited_fields": 0,
+  "duplicate_ids": 0,
+  "date_min": "2013-12-16 06:44:22",
+  "date_max": "2025-08-13 00:42:22",
+  "years": {
+    "2013": 2,
+    "2014": 177,
+    "2015": 907,
+    "2016": 1698,
+    "2017": 3720,
+    "2018": 7936,
+    "2019": 6763,
+    "2020": 11899,
+    "2021": 17415,
+    "2022": 108829,
+    "2023": 102259,
+    "2024": 168708,
+    "2025": 50518
+  },
+  "scores": {
+    "1": 65903,
+    "2": 11818,
+    "3": 20190,
+    "4": 47639,
+    "5": 335281
+  },
+  "duplicate_text_extra": 162558,
+  "short_under5words": 231672,
+  "recent_rows": 321485,
+  "top_texts": {
+    "good": 17458,
+    "nice": 7976,
+    "very good": 3842,
+    "good app": 3672,
+    "nice app": 3567,
+    "excellent": 2968,
+    "very helpful": 2472,
+    "great": 2452,
+    "best": 2027,
+    "amazing": 2008,
+    "very good app": 1852,
+    "best app": 1745,
+    "very nice": 1725,
+    "awesome": 1525,
+    "ok": 1498,
+    "great app": 1461,
+    "super": 1400,
+    "helpful": 1361,
+    "wow": 1354,
+    "very nice app": 1246
+  },
+  "candidate_rows": 158371,
+  "candidate_scores": {
+    "1": 25074,
+    "2": 4530,
+    "3": 7099,
+    "4": 17763,
+    "5": 103905
+  }
+}
+                                  rows               start                 end  recent  candidate  candidate_low_rate
+app_name                                                                                                             
+AI Questions Generator             344 2023-06-04 10:59:03 2025-08-11 20:00:24     344        178            0.219101
+AI Quiz Generator                  109 2023-06-02 15:38:00 2025-08-07 07:14:32     109         65            0.261538
+Academi AI: Study & Exam Tutor     244 2023-11-18 13:17:00 2025-08-02 02:55:20     244        125            0.176000
+Answer.AI - Your AI tutor        16353 2023-03-30 13:15:14 2025-08-12 10:59:35   16353       6814            0.078075
+Blackboard                       18686 2015-01-15 22:16:25 2025-08-11 18:39:29    1540       1135            0.715419
+Brainly: AI Homework Helper     233600 2022-01-16 04:47:57 2025-08-13 00:24:48  138090      66939            0.239621
+Course Hero: AI Homework Help     4230 2016-01-19 11:57:52 2025-08-09 15:52:40     566        377            0.713528
+Edu AI - AI Homework Helper         25 2024-01-08 15:37:09 2025-08-09 18:02:27      25         10            0.100000
+Gauth: AI Study Companion       103712 2020-12-21 10:52:41 2025-08-12 23:57:02   90318      49570            0.109986
+Help AI: Your Homework With AI    1868 2023-09-09 09:53:11 2025-08-12 14:45:49    1868        977            0.159672
+Homework AI - Math & Essay App    4253 2024-08-09 16:11:12 2025-08-12 15:24:33    4253       1389            0.280058
+Kahoot! Play & Create Quizzes    34147 2013-12-16 06:44:22 2025-08-12 18:24:03    5542       2263            0.320371
+Mathos AI: Math Helper & Tutor     289 2024-04-04 13:50:33 2025-08-12 01:27:39     289        168            0.220238
+Nerd AI - Tutor & Math Helper    14709 2023-07-29 17:32:37 2025-08-12 20:12:32   14709       5694            0.269406
+Question.AI - Chatbot&Math AI    32775 2023-06-06 16:09:18 2025-08-12 18:46:16   32775      16100            0.118261
+Quiz AI: AI Homework Helper        267 2022-07-29 21:53:55 2025-08-10 04:28:22     260        144            0.340278
+Quizard AI - Homework Helper      1444 2023-02-22 23:36:11 2025-08-11 15:29:34    1444        703            0.209104
+School Hack                       5255 2023-01-26 06:42:16 2025-08-02 15:09:38    5255       2488            0.230707
+Studocu: AI Homework Helper       2332 2019-05-21 05:26:32 2025-08-13 00:42:22    1313        740            0.282432
+StudyX: AI Homework Helper        6122 2022-08-22 08:34:41 2025-08-12 23:29:31    6121       2437            0.268773
+Teacher AI - Language Practice      55 2024-09-11 10:37:54 2025-08-09 02:27:02      55         51            0.725490
+Tutor AI: Learning Assistants       12 2023-04-07 16:39:58 2025-07-29 08:40:01      12          4            1.000000

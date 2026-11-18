@@ -1,0 +1,90 @@
+E001||positive|love writing my own blogs|正向评价混入游戏和视频场景，与学习助手用途不完全一致|off_domain
+E002||vague_negative|Worst app ever|没有具体原因|
+E003||positive|best educational app|正向评价|
+E004||irrelevant|president system|内容像提问片段，无产品体验|
+E005|TECH|issue|kicks me off|使用时被退出，原因未明|
+E006|PAY|issue|despite the fee|正向评价中附带轻度收费异议|mild
+E007|ANSWER,ADS|issue|Not accurate answers and too many adss|回答不准且广告多|
+E008|ENTITLEMENT,PAY|issue|nulled my membership|称旧会员权益失效、需再次付费，不能验证事实|
+E009|SPEED|issue|sometimes it is slow|速度不稳定|
+E010||ambiguous|accountability|语义不足以判断体验好坏|uncertain
+E011||positive|very useful for study|正向评价|
+E012|PAY|issue|kids to have to pay|认为儿童使用付费不合理|
+E013|PAY|issue|pay $7 a week|因每周收费自述停止使用，不能视为验证的流失行为|
+E014|PAY|issue|limited to 2 messages|免费两次额度不够并比较免费替代品|
+E015|PAY|issue|but fees Deni padhegi|印地语转写：很好但需要付费；轻度异议，待语言复核|language,mild
+E016|NEW_PERMISSIONS|issue|permmisson for access things|表示对索要访问权限有异议；原分类缺少此项，具体权限不明|novel,mild,uncertain
+E017|PAY|issue|pay before you can use|频繁使用后触发付费门槛|
+E018||positive|no subscription needed|赞扬无订阅，不标收费问题|
+E019||positive|thank you so much|混合语简短感谢，没有具体问题|language
+E020||positive|helps me in exam|自述学习帮助|
+E021||vague_negative|No good app|表达差评，具体问题不明|language
+E022|PAY|issue|pay 4 everything|认为使用都需要付费|
+E023||positive|nice and I love it|正向评价|
+E024||vague_negative|worst appp|泛泛差评|
+E025|ANSWER|issue|incorrect and inaccurate|回答不准并建议替代工具|
+E026|TECH,NEW_SUPPORT|issue|help and customer support, and there was none|登录失败且找不到帮助或客服；客服触点为新增候选类|novel
+E027||positive|Awesome and Amazing|正向评价|
+E028|TECH|issue|started not wanting to answer|付款后服务不再回答，未明确再次收费，不追加收费问题|
+E029|TECH|issue|website currently down|询问PC网站故障，属于网站端；无法证实宕机|platform_web,uncertain
+E030||vague_negative|got low score|只有学习结果归因，不能推断答案错误|
+E031|PAY|issue|need points to take a picture|拍照被积分额度限制，仍肯定产品|
+E032||positive|best homework helper|正向评价|
+E033|ANSWER,UNDERSTAND|issue|won't read the questions correctly|错答并错误读取题目，不能确定是OCR或理解机制|
+E034|ANSWER|issue|gives wrong answer|错答并提出改进请求|
+E035|EXPLAIN|issue|doesn't show steps|缺少解题步骤|
+E036||positive|very nice application|正向但句子未完成|
+E037|TECH|issue|bad connection|称其他应用可用而本应用报连接错误|
+E038|UNDERSTAND,PAY|issue|only calculates basic math|认为只能解基础数学且多数功能付费；能力与额度边界待复核|uncertain
+E039||positive|most helpful app|正向评价|
+E040||positive|usually good|正向评价|
+E041||positive|give all answer|正向评价|
+E042||positive|application is so good|正向评价|
+E043||positive|helps me with my grades|自述学习帮助|
+E044|EXPLAIN|issue|equation type|希望用方程形式表达；属于解释呈现需求而非故障|format_request,uncertain
+E045||positive|good for kids|正向评价|
+E046||positive|helpful in education|正向评价|
+E047|TECH|issue|kicks me out|进入和扫描受阻，无法确定单独扫描缺陷|
+E048|ANSWER|issue|answers is wrong|正向与错答抱怨并存|
+E049|PAY|issue|premium for it to work|对需要高级版、与免费预期不符表达异议|
+E050||positive|great app|正向评价|
+E051||vague_negative|not answering like other apps|未明确是完全不回答还是回答不如其他应用|uncertain
+E052|PAY|issue|takes so many ⚡|疑似能量积分消耗过多，含义应人工确认|uncertain
+E053|ANSWER,UNDERSTAND|issue|mali sagot uulitin padin|英菲混合语：信息错、纠正后仍重复，待语言复核|language
+E054|TECH|issue|having a bug|自述故障并列举题目，不直接确定错答|
+E055||positive|correct and good|赞扬准确性|
+E056||positive|really good app|赞扬生成速度，七秒不是负面速度标签|
+E057||positive|correct answer|赞扬准确性|
+E058||positive|very helpful|正向评价|
+E059|ANSWER|issue|gives wrong answers|部分错答|
+E060||positive|pretty nice app|正向评价|
+E061|ANSWER|issue|wrong answers|明确错答|
+E062||positive|good app|正向评价|
+E063||irrelevant|Ronaldo|重复拼接、主题混乱，无法识别产品反馈|language
+E064||positive|answers are correct|赞扬准确性|
+E065||preuse|can help me|只描述预期帮助，使用经历未明确|uncertain
+E066|PAY|issue|hadn't been paid|付费影响帮助程度|
+E067|BILLING|issue|need my refund back|退款诉求；hard to reach含义不明，不推断客服缺失|uncertain
+E068|UNDERSTAND|issue|Repeating The Answer|重复回答、数学问成科学，任务偏离|
+E069||positive|useful for my studies|正向评价|
+E070|TECH|issue|connection failed|持续连接错误|
+E071|BILLING|issue|automatically purchase after the trial|试用自动扣款与退款诉求|
+E072|TECH|issue|doesn't work sometimes|间歇无法使用|
+E073||positive|I think it good|弱正向且表述不清，不推断具体问题|
+E074||positive|helped me during an exam|自述帮助|
+E075||preuse|need to search it more|评价前还需探索，无具体使用问题|
+E076||positive|good for my homework|正向评价|
+E077||positive|best app|正向评价|
+E078||positive|useful in study|正向评价|
+E079|PAY|issue|reduces price|建议降价并说明学生预算约束|
+E080||positive|interested in learning|自述学习兴趣提升|
+E081|ANSWER|issue|wrong answers|明确错答；浪费时间不自动标响应慢|
+E082||positive|really worth it|正向评价|
+E083||positive|good app|正向评价|
+E084||positive|awesome|正向评价|
+E085||positive|gives every answer|正向评价|
+E086|ANSWER,BILLING|issue|Refused to refund|错答且退款被拒，自述事实待核实|
+E087||positive|halp full of home work|正向评价|
+E088||positive|agood app|正向评价|
+E089||vague_negative|didn't get an A|未达预期成绩，自述退订；不能推断错答|
+E090||positive|clear and simple|赞扬解释，无问题|

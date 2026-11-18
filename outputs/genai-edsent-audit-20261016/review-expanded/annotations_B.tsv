@@ -1,0 +1,90 @@
+E091||ambiguous|don't much of it|不完整表述，无法判断|uncertain
+E092||ambiguous|Okay lang sya pangtawid gutom|菲律宾语口语，大意勉强够用，未明确产品问题；待复核|language,uncertain
+E093|PAY|issue|problem is this app is puchase|明确指出付费问题|
+E094|ANSWER|issue|answers are not accurate|肯定应用但部分回答不准|
+E095||irrelevant|bag a shotie|像复制的恋爱建议，无产品体验|
+E096||positive|help my homework|正向评价|
+E097|PAY|issue|paying money|学生不愿为获取知识付费|
+E098|ANSWER|issue|wrong answers|肯定但存在错答|
+E099|PAY,ANSWER|issue|costly not giving correct|昂贵且回答错误|
+E100|TECH|issue|will not give me the answers|经常不返回答案，原因不明，不认定错答|uncertain
+E101||positive|Best app|正向评价|
+E102|UNDERSTAND|issue|urdu topic|疑似不支持乌尔都语主题，任务限制；措辞有误待复核|language_capability,uncertain
+E103|ANSWER|issue|wrong awnsers|明确错答，不仅是低分归因|
+E104||positive|very good|正向评价|
+E105||positive|more than math|赞扬数学以外能力|
+E106||positive|helpful ai|正向评价|
+E107||positive|improve math test|自述学习帮助|
+E108||positive|no money needs|赞扬无需付费，不标收费问题|
+E109|TECH|issue|get out from the app|拍照触发退出，运行故障|
+E110|ANSWER|issue|Doesn't really answer right|部分错答，同时赞扬裁图和免费|
+E111|ANSWER|issue|wrong information|部分信息错误|
+E112|PAY|issue|runs out of bars|疑似能量额度用尽，待复核术语|uncertain
+E113|EXPLAIN,TECH|issue|previous steps and current steps are mixed|解释播放太快，回看时步骤混乱和数字消失；不是响应慢|
+E114||positive|easy and understandable|正向评价|
+E115||positive|plenty explanations|赞扬中出现but，但未明确嫌解释过多，保守不标问题|uncertain
+E116|BILLING|issue|paid for it without my knowledge|不知情付费，事实未核实|
+E117||vague_negative|It's dump|泛泛不满|
+E118|PAY|issue|increase our usage|赞扬并请求增加使用额度|
+E119||preuse|will aid|只表达未来预期效果|uncertain
+E120|ANSWER,UNDERSTAND|issue|doesn't distinguish|错答且不能区分选择题和填空题|
+E121|UNDERSTAND|issue|Teu bisa basa sunda|巽他语：不会巽他语，语言能力反馈待复核|language,language_capability
+E122||vague_negative|have to improve|提出改进但没说明哪个方面|
+E123||positive|really helps|正向评价|
+E124|UI,TECH|issue|making it impossible for me to access|更新后文字入口难以访问、无法选择输入；技术与界面边界待复核|uncertain
+E125|ANSWER,SPEED|issue|answers are wrong|错答且响应慢|
+E126||positive|it is nice|正向评价|
+E127||ambiguous|gooad instal|表达含混，不能可靠区分赞扬或求助|uncertain
+E128||positive|fast and efficient|已在体验且正向，没有明确问题|
+E129|TECH|issue|can't chat with the ai|仍有能量但无法聊天，不能简单算额度耗尽|
+E130||positive|very detailed answers|赞扬解释；批评对象是教师，不是应用|
+E131||vague_negative|not helpful|泛泛差评|
+E132|PAY|issue|free trials|希望免费试用与取消收费|
+E133|PAY,UI|issue|different directions|两次额度限制及截图方向问题；方向描述待复核|uncertain
+E134|ONBOARD|issue|do not understand how|不会使用，入门求助|
+E135|ANSWER|issue|don't give accurate answer|喜欢产品但答案不准|
+E136|ANSWER|issue|more incorrect answers|错答较多的用户自述|
+E137|TECH|issue|not answering|不返回答案，根因不明|uncertain
+E138||positive|best answers|正向评价|
+E139|ADS|issue|ads are horrendous|肯定AI但广告体验差|
+E140|PAY|issue|have to pay|肯定产品但指出收费，轻度异议|mild
+E141|UNDERSTAND,UI|issue|can't change it in the settings|输出非所需英语，无法在设置改变；语言和设置问题|language_capability
+E142||positive|easy learning|一般正向表达，缺少具体使用证据|
+E143||vague_negative|not good|泛泛不满|
+E144|TECH|issue|stop operating|使用一段时间后停止运行|
+E145|PAY|issue|energy for scanning|扫描所需能量有问题，具体是否额度不足未明|uncertain
+E146||positive|best for solving maths|正向评价|
+E147||positive|so useful|正向评价|
+E148|ADS|issue|ads are just unbearable|广告过多妨碍任务，不额外推断网络速度|
+E149|PAY|issue|limit for asking follow up questions|追问额度和购买提醒造成不满|
+E150|PAY,TECH|issue|subscription lene ke liye aur server problem|印地语转写：需订阅且经常服务器故障，待语言复核|language
+E151||positive|clear answers and explanations|赞扬解释|
+E152|ANSWER,EXPLAIN|issue|explanation cannot go with right options|解释与正确选项不匹配，不是解释难度|
+E153|ANSWER|issue|answers are not correct|部分答案错误|
+E154||positive|best option|正向评价|
+E155||positive|works with ease|正向评价|
+E156|UNDERSTAND|issue|different topic it answer the same thing|换主题仍重复回答，不能据此确定内部记忆机制|
+E157||positive|Found the answer|找答案很久后终于得到；未表示应用响应慢|
+E158|PAY|issue|no free trial|没有免费试用，全部收费|
+E159|ANSWER|issue|some questions were wrong|自述作业通过但部分回答错误|
+E160||positive|best app|正向评价|
+E161||preuse|hope it can help|仅表达希望|
+E162||positive|helps with anything|正向评价|
+E163||positive|help me to summarize|赞扬总结用途，夹杂少量其他语言|language
+E164|PAY|issue|energy in one question is all gone|一题耗尽能量，具体机制未核实|
+E165||positive|no ads|赞扬无广告和解释，不标问题|
+E166||preuse|give it a try|尚在准备试用|
+E167||irrelevant|vlerën e shprehjes|阿尔巴尼亚语数学题指令，非产品反馈|language
+E168||positive|Helps me study|正向评价|
+E169||positive|really helpful|正向评价|
+E170||positive|good most in mathematics|正向评价|
+E171|PAY|issue|pay and i dont have a card|付费和支付工具门槛|
+E172||positive|really helpful|正向评价|
+E173||positive|better than finding|正向评价|
+E174|TECH|issue|freezes you phone|手机卡死的用户自述|
+E175||positive|better than chatgpt|正向竞品比较|
+E176|ANSWER|issue|Half my answers were wrong|错答，庆幸未付费，不额外标收费问题|
+E177||vague_negative|confuses in itself and low time|疑似混乱、时间问题，但语义不足以定位|uncertain
+E178||positive|very good app|正向评价|
+E179||positive|get A+|自述学习成绩帮助|
+E180|PAY|issue|limited use for newcomers|赞扬帮助但新用户额度有限|

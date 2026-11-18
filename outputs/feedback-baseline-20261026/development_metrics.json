@@ -1,0 +1,130 @@
+{
+  "evaluation_type": "development_agreement_with_AI_labels_NOT_human_test",
+  "binary_majority_baseline": {
+    "n": 347,
+    "positive_n": 144,
+    "accuracy": 0.5850144092219021,
+    "positive_precision": 0.0,
+    "positive_recall": 0.0,
+    "positive_f1": 0.0,
+    "macro_f1": 0.3690909090909091,
+    "confusion_matrix_true_rows_pred_cols_0_1": [
+      [
+        203,
+        0
+      ],
+      [
+        144,
+        0
+      ]
+    ]
+  },
+  "binary_tfidf_logistic_regression": {
+    "n": 347,
+    "positive_n": 144,
+    "accuracy": 0.8645533141210374,
+    "positive_precision": 0.8050314465408805,
+    "positive_recall": 0.8888888888888888,
+    "positive_f1": 0.8448844884488449,
+    "macro_f1": 0.8623399424341411,
+    "confusion_matrix_true_rows_pred_cols_0_1": [
+      [
+        172,
+        31
+      ],
+      [
+        16,
+        128
+      ]
+    ]
+  },
+  "four_categories_masked_end_to_end": {
+    "回答与任务完成": {
+      "n": 324,
+      "positive_n": 61,
+      "accuracy": 0.9074074074074074,
+      "positive_precision": 0.7627118644067796,
+      "positive_recall": 0.7377049180327869,
+      "positive_f1": 0.75,
+      "macro_f1": 0.8465909090909092,
+      "confusion_matrix_true_rows_pred_cols_0_1": [
+        [
+          249,
+          14
+        ],
+        [
+          16,
+          45
+        ]
+      ]
+    },
+    "收费与权益": {
+      "n": 328,
+      "positive_n": 53,
+      "accuracy": 0.9451219512195121,
+      "positive_precision": 0.8181818181818182,
+      "positive_recall": 0.8490566037735849,
+      "positive_f1": 0.8333333333333334,
+      "macro_f1": 0.9002433090024331,
+      "confusion_matrix_true_rows_pred_cols_0_1": [
+        [
+          265,
+          10
+        ],
+        [
+          8,
+          45
+        ]
+      ]
+    },
+    "运行体验": {
+      "n": 322,
+      "positive_n": 13,
+      "accuracy": 0.953416149068323,
+      "positive_precision": 0.45454545454545453,
+      "positive_recall": 0.7692307692307693,
+      "positive_f1": 0.5714285714285714,
+      "macro_f1": 0.7733990147783252,
+      "confusion_matrix_true_rows_pred_cols_0_1": [
+        [
+          297,
+          12
+        ],
+        [
+          3,
+          10
+        ]
+      ]
+    },
+    "界面与广告": {
+      "n": 322,
+      "positive_n": 12,
+      "accuracy": 0.9658385093167702,
+      "positive_precision": 0.5454545454545454,
+      "positive_recall": 0.5,
+      "positive_f1": 0.5217391304347826,
+      "macro_f1": 0.7520128824476651,
+      "confusion_matrix_true_rows_pred_cols_0_1": [
+        [
+          305,
+          5
+        ],
+        [
+          6,
+          6
+        ]
+      ]
+    }
+  },
+  "four_categories_masked_micro": {
+    "precision": 0.7210884353741497,
+    "recall": 0.762589928057554,
+    "f1": 0.7412587412587412,
+    "observed_cells": 1296
+  },
+  "warnings": [
+    "Same-assistant training/development labels may share systematic errors.",
+    "These scores cannot establish human-level accuracy or population prevalence.",
+    "入门求助 is not trained or included in category metrics."
+  ]
+}

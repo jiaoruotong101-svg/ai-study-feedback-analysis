@@ -1,0 +1,416 @@
+{
+  "new_n": 180,
+  "cumulative_n": 270,
+  "batch_results": [
+    {
+      "batch": "A",
+      "n": 90,
+      "actionable": 40,
+      "uncovered": 2,
+      "ambiguous_or_vague": 7,
+      "回答与任务完成": 14,
+      "收费与权益": 17,
+      "运行体验": 10,
+      "界面与广告": 1,
+      "入门求助": 0,
+      "未覆盖候选": 2
+    },
+    {
+      "batch": "B",
+      "n": 90,
+      "actionable": 44,
+      "uncovered": 0,
+      "ambiguous_or_vague": 8,
+      "回答与任务完成": 19,
+      "收费与权益": 16,
+      "运行体验": 10,
+      "界面与广告": 5,
+      "入门求助": 1,
+      "未覆盖候选": 0
+    },
+    {
+      "batch": "P",
+      "n": 90,
+      "actionable": 43,
+      "uncovered": 0,
+      "ambiguous_or_vague": 8,
+      "回答与任务完成": 13,
+      "收费与权益": 21,
+      "运行体验": 6,
+      "界面与广告": 4,
+      "入门求助": 2,
+      "未覆盖候选": 0
+    }
+  ],
+  "rating_strata": [
+    {
+      "batch": "A",
+      "stratum": "high_4_5",
+      "sum": 2,
+      "count": 30
+    },
+    {
+      "batch": "A",
+      "stratum": "low_1_2",
+      "sum": 20,
+      "count": 30
+    },
+    {
+      "batch": "A",
+      "stratum": "mid_3",
+      "sum": 18,
+      "count": 30
+    },
+    {
+      "batch": "B",
+      "stratum": "high_4_5",
+      "sum": 3,
+      "count": 30
+    },
+    {
+      "batch": "B",
+      "stratum": "low_1_2",
+      "sum": 23,
+      "count": 30
+    },
+    {
+      "batch": "B",
+      "stratum": "mid_3",
+      "sum": 18,
+      "count": 30
+    },
+    {
+      "batch": "P",
+      "stratum": "high_4_5",
+      "sum": 2,
+      "count": 30
+    },
+    {
+      "batch": "P",
+      "stratum": "low_1_2",
+      "sum": 24,
+      "count": 30
+    },
+    {
+      "batch": "P",
+      "stratum": "mid_3",
+      "sum": 17,
+      "count": 30
+    }
+  ],
+  "new_status": {
+    "issue": 84,
+    "positive": 72,
+    "vague_negative": 11,
+    "preuse": 5,
+    "irrelevant": 4,
+    "ambiguous": 4
+  },
+  "all_status": {
+    "issue": 127,
+    "positive": 106,
+    "vague_negative": 18,
+    "preuse": 8,
+    "irrelevant": 6,
+    "ambiguous": 5
+  },
+  "new_uncovered_ids": [
+    "E016",
+    "E026"
+  ],
+  "flag_counts_new": {
+    "uncertain": 22,
+    "mild": 4,
+    "language": 10,
+    "language_capability": 3,
+    "novel": 2
+  },
+  "subcategories": [
+    {
+      "code": "ANSWER",
+      "name": "回答质量",
+      "P": 9,
+      "A": 10,
+      "B": 14
+    },
+    {
+      "code": "EXPLAIN",
+      "name": "解释与步骤",
+      "P": 2,
+      "A": 2,
+      "B": 2
+    },
+    {
+      "code": "UNDERSTAND",
+      "name": "理解与任务完成",
+      "P": 3,
+      "A": 4,
+      "B": 5
+    },
+    {
+      "code": "PAY",
+      "name": "付费门槛与额度",
+      "P": 17,
+      "A": 14,
+      "B": 15
+    },
+    {
+      "code": "BILLING",
+      "name": "扣费争议与退款",
+      "P": 3,
+      "A": 3,
+      "B": 1
+    },
+    {
+      "code": "ENTITLEMENT",
+      "name": "已购权益",
+      "P": 1,
+      "A": 1,
+      "B": 0
+    },
+    {
+      "code": "TECH",
+      "name": "运行与访问",
+      "P": 4,
+      "A": 9,
+      "B": 9
+    },
+    {
+      "code": "SPEED",
+      "name": "响应速度",
+      "P": 3,
+      "A": 1,
+      "B": 1
+    },
+    {
+      "code": "ADS",
+      "name": "广告体验",
+      "P": 3,
+      "A": 1,
+      "B": 2
+    },
+    {
+      "code": "UI",
+      "name": "界面易用性",
+      "P": 1,
+      "A": 0,
+      "B": 3
+    },
+    {
+      "code": "ONBOARD",
+      "name": "入门求助",
+      "P": 2,
+      "A": 0,
+      "B": 1
+    },
+    {
+      "code": "NEW_PERMISSIONS",
+      "name": "权限异议候选",
+      "P": 0,
+      "A": 1,
+      "B": 0
+    },
+    {
+      "code": "NEW_SUPPORT",
+      "name": "客服缺失候选",
+      "P": 0,
+      "A": 1,
+      "B": 0
+    }
+  ],
+  "high_rating_ids_new": [
+    "E015",
+    "E035",
+    "E112",
+    "E135",
+    "E159"
+  ],
+  "keyword_proxy_diagnostic": {
+    "tp": 51,
+    "fp": 10,
+    "fn": 33,
+    "tn": 86,
+    "precision": 0.8360655737704918,
+    "recall": 0.6071428571428571,
+    "false_positive_ids": [
+      "E001",
+      "E018",
+      "E055",
+      "E057",
+      "E063",
+      "E064",
+      "E108",
+      "E115",
+      "E151",
+      "E165"
+    ],
+    "false_negative_ids": [
+      "E005",
+      "E006",
+      "E009",
+      "E014",
+      "E015",
+      "E016",
+      "E029",
+      "E035",
+      "E037",
+      "E044",
+      "E052",
+      "E053",
+      "E067",
+      "E068",
+      "E070",
+      "E071",
+      "E072",
+      "E093",
+      "E100",
+      "E102",
+      "E112",
+      "E118",
+      "E121",
+      "E129",
+      "E132",
+      "E133",
+      "E134",
+      "E137",
+      "E141",
+      "E144",
+      "E149",
+      "E164",
+      "E180"
+    ],
+    "note": "旧主题词提及规则若误用为具体问题筛选会出现的分歧；AI标签探索性参照，不是独立金标准性能。"
+  },
+  "new_rating_totals": {
+    "high_4_5": {
+      "sum": 5,
+      "count": 60
+    },
+    "low_1_2": {
+      "sum": 43,
+      "count": 60
+    },
+    "mid_3": {
+      "sum": 36,
+      "count": 60
+    }
+  },
+  "new_high_without_mild": 4,
+  "new_multilabel_n": 16,
+  "new_no_issue_but_low_ids": [
+    "E002",
+    "E004",
+    "E021",
+    "E023",
+    "E024",
+    "E030",
+    "E050",
+    "E051",
+    "E083",
+    "E089",
+    "E117",
+    "E127",
+    "E131",
+    "E143",
+    "E154",
+    "E162",
+    "E177"
+  ],
+  "all_rating_totals": {
+    "high_4_5": {
+      "sum": 7,
+      "count": 90
+    },
+    "low_1_2": {
+      "sum": 67,
+      "count": 90
+    },
+    "mid_3": {
+      "sum": 53,
+      "count": 90
+    }
+  },
+  "all_high_without_mild": 5,
+  "all_multilabel_n": 19,
+  "all_no_issue_but_low_ids": [
+    "R007",
+    "R009",
+    "R025",
+    "R064",
+    "R084",
+    "R086",
+    "E002",
+    "E004",
+    "E021",
+    "E023",
+    "E024",
+    "E030",
+    "E050",
+    "E051",
+    "E083",
+    "E089",
+    "E117",
+    "E127",
+    "E131",
+    "E143",
+    "E154",
+    "E162",
+    "E177"
+  ],
+  "new_sensitive_exclusion": {
+    "exclude_uncertain": {
+      "n": 158,
+      "actionable": 71,
+      "by_rating": {
+        "high_4_5": {
+          "sum": 4,
+          "count": 56
+        },
+        "low_1_2": {
+          "sum": 35,
+          "count": 49
+        },
+        "mid_3": {
+          "sum": 32,
+          "count": 53
+        }
+      }
+    },
+    "exclude_language": {
+      "n": 170,
+      "actionable": 80,
+      "by_rating": {
+        "high_4_5": {
+          "sum": 4,
+          "count": 57
+        },
+        "low_1_2": {
+          "sum": 40,
+          "count": 56
+        },
+        "mid_3": {
+          "sum": 36,
+          "count": 57
+        }
+      }
+    },
+    "exclude_both": {
+      "n": 149,
+      "actionable": 67,
+      "by_rating": {
+        "high_4_5": {
+          "sum": 3,
+          "count": 54
+        },
+        "low_1_2": {
+          "sum": 32,
+          "count": 45
+        },
+        "mid_3": {
+          "sum": 32,
+          "count": 50
+        }
+      }
+    }
+  }
+}

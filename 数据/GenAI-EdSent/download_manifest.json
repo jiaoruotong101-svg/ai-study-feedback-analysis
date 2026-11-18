@@ -1,0 +1,101 @@
+{
+  "revision": "32783444ddc6b56cc95996d77d0923d6eb075164",
+  "files": [
+    {
+      "file": "data/train-00000-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00000-of-00016.parquet",
+      "bytes": 5883198,
+      "sha256": "24c3dacab5e5fc90ea5f185b50e4bf8ee4707c56c4d16fb0fb515a76c546669a"
+    },
+    {
+      "file": "data/train-00001-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00001-of-00016.parquet",
+      "bytes": 4645237,
+      "sha256": "c73fbb51b6956e5885952b5579ca6db3bb5cd753fa68159d6a07617d81e9c22f"
+    },
+    {
+      "file": "data/train-00002-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00002-of-00016.parquet",
+      "bytes": 5904525,
+      "sha256": "8c1398b07186ec44637c46c799647cf0ecbd0d8ee423b206644c82412fb90342"
+    },
+    {
+      "file": "data/train-00003-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00003-of-00016.parquet",
+      "bytes": 6951272,
+      "sha256": "d1aecdacdaf1c8c590085a35cb889b4a67d117735f5a4065620f20010bc748f6"
+    },
+    {
+      "file": "data/train-00004-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00004-of-00016.parquet",
+      "bytes": 7082311,
+      "sha256": "27ddaf09315aceb7c4a2705a1c0e5de825784cc05095ce718578c1fdc668e93e"
+    },
+    {
+      "file": "data/train-00005-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00005-of-00016.parquet",
+      "bytes": 5979390,
+      "sha256": "ab8da0cac0cda0203a14e979b49f92cb8a4bc92559e35161a1239ccf4af14b77"
+    },
+    {
+      "file": "data/train-00006-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00006-of-00016.parquet",
+      "bytes": 6227792,
+      "sha256": "5284e4310e8f51c210af01115086a367d0c21b294adb880eaa7df91213d7b380"
+    },
+    {
+      "file": "data/train-00007-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00007-of-00016.parquet",
+      "bytes": 6105348,
+      "sha256": "cde6d568cd02be0ecab4f7d767cbc7003c23df1a9aa92d16f940c9b38cdd1b27"
+    },
+    {
+      "file": "data/train-00008-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00008-of-00016.parquet",
+      "bytes": 6022032,
+      "sha256": "25c51a64829d6a0f7adcc9e3b5ad3f2e665b4bad9f3f8c3d3d405e54b54ef45c"
+    },
+    {
+      "file": "data/train-00009-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00009-of-00016.parquet",
+      "bytes": 6110021,
+      "sha256": "0739e942d781f9bed267e2a61cb289282fe487ef303174059d70955ade8029e9"
+    },
+    {
+      "file": "data/train-00010-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00010-of-00016.parquet",
+      "bytes": 6326575,
+      "sha256": "61858563bd091c4723b13adf6b0c61a2eebd3fe397bf2c507553c1ecdf861845"
+    },
+    {
+      "file": "data/train-00011-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00011-of-00016.parquet",
+      "bytes": 6319333,
+      "sha256": "e5fe6ef1f351215708da0de92eabe8b93eba1306ff8afccb14824513430e3c9f"
+    },
+    {
+      "file": "data/train-00012-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00012-of-00016.parquet",
+      "bytes": 6532875,
+      "sha256": "6c16bb3cdc04b9124d24caf3784c44ff51ed6f01c5979bda9e533874b4ae4919"
+    },
+    {
+      "file": "data/train-00013-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00013-of-00016.parquet",
+      "bytes": 6429073,
+      "sha256": "97cd39d6556ac428be21d5a29f78a542f9ced0d9801e5aebd5d6b1f57311d199"
+    },
+    {
+      "file": "data/train-00014-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00014-of-00016.parquet",
+      "bytes": 6113731,
+      "sha256": "726756d3a7c3e9523ca834b097cc819960ebda601469147f258683598d63e67c"
+    },
+    {
+      "file": "data/train-00015-of-00016.parquet",
+      "url": "https://huggingface.co/datasets/Erfan-Nourbakhsh/GenAI-EdSent/resolve/32783444ddc6b56cc95996d77d0923d6eb075164/data/train-00015-of-00016.parquet",
+      "bytes": 5143791,
+      "sha256": "b5d60861f41d32741e458b5886aa06499919e636b17539f99eeea12d0b96e65d"
+    }
+  ]
+}

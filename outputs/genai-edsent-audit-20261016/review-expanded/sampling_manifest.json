@@ -1,0 +1,11 @@
+{
+  "new_n": 180,
+  "pilot_n": 90,
+  "total_n": 270,
+  "excluded_known_normalized_texts": 249,
+  "remaining_population": 81817,
+  "seed": 2026101602,
+  "shuffle_seed": 1702,
+  "frozen_rule_sha256": "06c209a0a4b672951d1c02e6244d88cdd45c10b4e7f01e3530392005935730e6",
+  "definition": "6 apps x 3 rating strata x 10; two sequential batches of 90; no overlap with previously displayed normalized text"
+}

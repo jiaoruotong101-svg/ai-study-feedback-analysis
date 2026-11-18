@@ -1,0 +1,10 @@
+{
+  "records": 60,
+  "source_text_exact": true,
+  "blank_human_cells": 300,
+  "no_hidden_sheets_or_comments": true,
+  "only_id_text_and_empty_inputs": true,
+  "dropdowns": 2,
+  "freeze": "B6",
+  "sha256": "246929062dd9a53a02b1cc17810460f814701a1a43a9c49a28e01d4ecbd9ce22"
+}

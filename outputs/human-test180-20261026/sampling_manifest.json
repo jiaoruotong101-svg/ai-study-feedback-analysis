@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-26",
+  "n": 180,
+  "groups": [
+    {
+      "app": "Answer.AI - Your AI tutor",
+      "stratum": "high",
+      "n": 10
+    },
+    {
+      "app": "Answer.AI - Your AI tutor",
+      "stratum": "low",
+      "n": 10
+    },
+    {
+      "app": "Answer.AI - Your AI tutor",
+      "stratum": "mid",
+      "n": 10
+    },
+    {
+      "app": "Gauth: AI Study Companion",
+      "stratum": "high",
+      "n": 10
+    },
+    {
+      "app": "Gauth: AI Study Companion",
+      "stratum": "low",
+      "n": 10
+    },
+    {
+      "app": "Gauth: AI Study Companion",
+      "stratum": "mid",
+      "n": 10
+    },
+    {
+      "app": "Homework AI - Math & Essay App",
+      "stratum": "high",
+      "n": 10
+    },
+    {
+      "app": "Homework AI - Math & Essay App",
+      "stratum": "low",
+      "n": 10
+    },
+    {
+      "app": "Homework AI - Math & Essay App",
+      "stratum": "mid",
+      "n": 10
+    },
+    {
+      "app": "Nerd AI - Tutor & Math Helper",
+      "stratum": "high",
+      "n": 10
+    },
+    {
+      "app": "Nerd AI - Tutor & Math Helper",
+      "stratum": "low",
+      "n": 10
+    },
+    {
+      "app": "Nerd AI - Tutor & Math Helper",
+      "stratum": "mid",
+      "n": 10
+    },
+    {
+      "app": "Question.AI - Chatbot&Math AI",
+      "stratum": "high",
+      "n": 10
+    },
+    {
+      "app": "Question.AI - Chatbot&Math AI",
+      "stratum": "low",
+      "n": 10
+    },
+    {
+      "app": "Question.AI - Chatbot&Math AI",
+      "stratum": "mid",
+      "n": 10
+    },
+    {
+      "app": "StudyX: AI Homework Helper",
+      "stratum": "high",
+      "n": 10
+    },
+    {
+      "app": "StudyX: AI Homework Helper",
+      "stratum": "low",
+      "n": 10
+    },
+    {
+      "app": "StudyX: AI Homework Helper",
+      "stratum": "mid",
+      "n": 10
+    }
+  ],
+  "seed_base": 2026102600,
+  "shuffle_seed": 2026102699,
+  "known_unique_text_n": 2649,
+  "excluded_known_ids_n": 2490,
+  "language_exclusion_n": 3,
+  "near_duplicate_rejected_ids": [
+    "8a28658e-c097-4a88-9163-e9a3922e8625"
+  ],
+  "language_status": "ASCII prefilter plus assistant language-only screen; human may still mark partial or unable",
+  "model_frozen_manifest_sha256": "78564a3b20998a4b2e78d2ac0e785871cacfe806758869a19edf5625d745005a",
+  "model_sha256": "1d6bca80765a214d96ee763a6140908d4ff3680452796697028dd222cbb84421",
+  "rules_sha256": "f6ed0f9dcfb18991102bc2ce2eb37c1e3fce54deca30da7e0da5c7f3dc7a1b30",
+  "blind_sample_sha256": "66566f2c5b538611ca5b5f52d3b31df2eda2bbb3ca9e48b2fb9a7c013de82061",
+  "metadata_sha256": "e59b73adec6e28583fbf9de4fed3209e3fcd3ffac3d7eefc4c6ab6d0da1e6fce",
+  "human_labels_created": false,
+  "model_predictions_created": false,
+  "evaluation_plan": "After all human entries are saved, evaluate the frozen model without fitting, threshold changes or class changes. Report valid sample coverage, binary metrics, masked category metrics, uncertainty counts, and sample limitations. Any later tuning is post-test development, not a fresh independent result."
+}

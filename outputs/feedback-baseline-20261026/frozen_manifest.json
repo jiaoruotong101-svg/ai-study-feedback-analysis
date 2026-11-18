@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-26",
+  "status": "baseline_configuration_and_model_frozen_before_human_test",
+  "python": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+  "sklearn": "1.9.1",
+  "train_n": 1721,
+  "development_n": 347,
+  "vocabulary_n": 3566,
+  "training_labels_sha256": "80426e826a5ea9e73392ec2145f5f61fa8a6770ab875a825030ac4ef2287026d",
+  "label_manifest_sha256": "4e56092aa1c19a444c393c45528eeb74da1f7639c61a0d1ad409ee5775c59ee6",
+  "script_sha256": "fb422972a55765a9dab375587d2897fc653dbd00a9ece753902457d15553191b",
+  "files_sha256": {
+    "category_training_masks.json": "483dfcf93930b3aa625362fb4a8f4f21b8fa2085807f5efda8278a85b24c212d",
+    "config.json": "3bff40f9915ffafbe2cb2523905de4e83173971445affdbd9c37edd9ed1087ee",
+    "development_metrics.json": "65a23b790f7ec8e2ac96ba7b6ddb7e1603baee89c5bd7995255f44d3763e5595",
+    "development_predictions.jsonl": "579a4ee3a0c4586dbcf54afc7507e1bde1ef99bd5dfe684c95bb9f5a5f567c97",
+    "model.joblib": "1d6bca80765a214d96ee763a6140908d4ff3680452796697028dd222cbb84421"
+  },
+  "validation": {
+    "serialized_model_predictions_match": true,
+    "train_development_id_overlap": 0,
+    "null_target_mask_checked": true,
+    "development_predictions_readback_match": true
+  },
+  "human_test": {
+    "target_n": 180,
+    "selected": false,
+    "labels_created": false,
+    "evaluated": false
+  }
+}
